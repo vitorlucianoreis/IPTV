@@ -1,0 +1,1971 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="| RTP 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtp1.png" group-title="GOLD",| RTP 1
+http://viphd4k.club:8080/VitorFaro2/9870/35646
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="| RTP 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtp2.png" group-title="GOLD",| RTP 2
+http://viphd4k.club:8080/VitorFaro2/9870/35645
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="| SIC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sic.png" group-title="GOLD",| SIC
+http://viphd4k.club:8080/VitorFaro2/9870/35629
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="| TVI" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvi.png" group-title="GOLD",| TVI
+http://viphd4k.club:8080/VitorFaro2/9870/35616
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="| SIC NOTICIAS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sicnoticias.png" group-title="GOLD",| SIC NOTICIAS
+http://viphd4k.club:8080/VitorFaro2/9870/35630
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="| RTP 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtp3.png" group-title="GOLD",| RTP 3
+http://viphd4k.club:8080/VitorFaro2/9870/35644
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="| TVI 24" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvi24.png" group-title="GOLD",| TVI 24
+http://viphd4k.club:8080/VitorFaro2/9870/35615
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="| CM TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CMTV%20HD.png" group-title="GOLD",| CM TV
+http://viphd4k.club:8080/VitorFaro2/9870/35680
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="| SPORT TV +" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttvplus.png" group-title="GOLD",| SPORT TV +
+http://viphd4k.club:8080/VitorFaro2/9870/35612
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="| EURONEWS" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Euronews.png" group-title="GOLD",| EURONEWS
+http://viphd4k.club:8080/VitorFaro2/9870/35673
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="| TV GLOBO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/globo.png" group-title="GOLD",| TV GLOBO
+http://viphd4k.club:8080/VitorFaro2/9870/35622
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="| SIC MULHER" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sicmulher.png" group-title="GOLD",| SIC MULHER
+http://viphd4k.club:8080/VitorFaro2/9870/35631
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="| TVI REALITY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvireality.png" group-title="GOLD",| TVI REALITY
+http://viphd4k.club:8080/VitorFaro2/9870/35625
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="| PORTO CANAL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/portocanal.png" group-title="GOLD",| PORTO CANAL
+http://viphd4k.club:8080/VitorFaro2/9870/35638
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="| SIC CARAS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/siccaras.png" group-title="GOLD",| SIC CARAS
+http://viphd4k.club:8080/VitorFaro2/9870/35628
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="| SIC RADICAL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sicradical.png" group-title="GOLD",| SIC RADICAL
+http://viphd4k.club:8080/VitorFaro2/9870/35632
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="| RTP MEMÓRIA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtpmemoria.png" group-title="GOLD",| RTP MEMÓRIA
+http://viphd4k.club:8080/VitorFaro2/9870/35641
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="| RTP AÇORES" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtpacores.png" group-title="GOLD",| RTP AÇORES
+http://viphd4k.club:8080/VitorFaro2/9870/35642
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="| RTP ÁFRICA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtpafrica.png" group-title="GOLD",| RTP ÁFRICA
+http://viphd4k.club:8080/VitorFaro2/9870/35640
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="| SPORT TV 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv1hd.png" group-title="GOLD",| SPORT TV 1
+http://viphd4k.club:8080/VitorFaro2/9870/35610
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="| SPORT TV 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv2hd.png" group-title="GOLD",| SPORT TV 2
+http://viphd4k.club:8080/VitorFaro2/9870/35609
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="| SPORT TV 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv3hd.png" group-title="GOLD",| SPORT TV 3
+http://viphd4k.club:8080/VitorFaro2/9870/35608
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="| SPORT TV 4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv4.png" group-title="GOLD",| SPORT TV 4
+http://viphd4k.club:8080/VitorFaro2/9870/35607
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="| SPORT TV 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv5.png" group-title="GOLD",| SPORT TV 5
+http://viphd4k.club:8080/VitorFaro2/9870/35606
+#EXTINF:-1 tvg-id="sporttv4k.pt" tvg-name="| SPORT TV UHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv4kuhd.png" group-title="GOLD",| SPORT TV UHD
+http://viphd4k.club:8080/VitorFaro2/9870/35611
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="| ELEVEN SPORTS 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 1
+http://viphd4k.club:8080/VitorFaro2/9870/35605
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="| ELEVEN SPORTS 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 2
+http://viphd4k.club:8080/VitorFaro2/9870/35604
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="| ELEVEN SPORTS 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 3
+http://viphd4k.club:8080/VitorFaro2/9870/35603
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="| ELEVEN SPORTS 4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 4
+http://viphd4k.club:8080/VitorFaro2/9870/35602
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="| ELEVEN SPORTS 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 5
+http://viphd4k.club:8080/VitorFaro2/9870/35601
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="| ELEVEN SPORTS 6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="GOLD",| ELEVEN SPORTS 6
+http://viphd4k.club:8080/VitorFaro2/9870/35600
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="| BENFICA TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201.png" group-title="GOLD",| BENFICA TV
+http://viphd4k.club:8080/VitorFaro2/9870/35681
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="| A BOLA TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/A%20BOLA.png" group-title="GOLD",| A BOLA TV
+http://viphd4k.club:8080/VitorFaro2/9870/35687
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="| NBA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nbatv.png" group-title="GOLD",| NBA
+http://viphd4k.club:8080/VitorFaro2/9870/35648
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="| EUROSPORT 1" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%201.png" group-title="GOLD",| EUROSPORT 1
+http://viphd4k.club:8080/VitorFaro2/9870/35668
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="| EUROSPORT 2" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%202.png" group-title="GOLD",| EUROSPORT 2
+http://viphd4k.club:8080/VitorFaro2/9870/35667
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="| MOTORVISION TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/motorvision.png" group-title="GOLD",| MOTORVISION TV
+http://viphd4k.club:8080/VitorFaro2/9870/35650
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="| FUEL TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FUEL%20TV.png" group-title="GOLD",| FUEL TV
+http://viphd4k.club:8080/VitorFaro2/9870/35657
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="| KOMBAT SPORTS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kombatsport.png" group-title="GOLD",| KOMBAT SPORTS
+http://viphd4k.club:8080/VitorFaro2/9870/35653
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="| FIGHT CHANNEL / NETWORK" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/fightnetwork.png" group-title="GOLD",| FIGHT CHANNEL / NETWORK
+http://viphd4k.club:8080/VitorFaro2/9870/35659
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="| DISNEY CHANNEL" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISNEY%20CHANNEL.png" group-title="GOLD",| DISNEY CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/35672
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="| NICKELODEON" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickelodeon.png" group-title="GOLD",| NICKELODEON
+http://viphd4k.club:8080/VitorFaro2/9870/35647
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="NICK JR°" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Nick%20Jr..png" group-title="GOLD",NICK JR°
+http://viphd4k.club:8080/VitorFaro2/9870/36386
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="| PANDA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalpanda.png" group-title="GOLD",| PANDA
+http://viphd4k.club:8080/VitorFaro2/9870/35639
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="| PANDA BIGGS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/biggs.png" group-title="GOLD",| PANDA BIGGS
+http://viphd4k.club:8080/VitorFaro2/9870/35637
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="| DISNEY JR" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Disney%20Junior.png" group-title="GOLD",| DISNEY JR
+http://viphd4k.club:8080/VitorFaro2/9870/35669
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="| CARTOON NETWORK" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CARTOON%20NETWORK.png" group-title="GOLD",| CARTOON NETWORK
+http://viphd4k.club:8080/VitorFaro2/9870/35676
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="| SIC K" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sick.png" group-title="GOLD",| SIC K
+http://viphd4k.club:8080/VitorFaro2/9870/35627
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="| JIMJAM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/jimjam.png" group-title="GOLD",| JIMJAM
+http://viphd4k.club:8080/VitorFaro2/9870/35654
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="| BABY TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/BABY%20TV.png" group-title="GOLD",| BABY TV
+http://viphd4k.club:8080/VitorFaro2/9870/35682
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="| TV CINE 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvcine1.png" group-title="GOLD",| TV CINE 1
+http://viphd4k.club:8080/VitorFaro2/9870/35617
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="| TV CINE 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvcine2.png" group-title="GOLD",| TV CINE 2
+http://viphd4k.club:8080/VitorFaro2/9870/35618
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="| TV CINE 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvcine3.png" group-title="GOLD",| TV CINE 3
+http://viphd4k.club:8080/VitorFaro2/9870/35619
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="| TV CINE 4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvcine4.png" group-title="GOLD",| TV CINE 4
+http://viphd4k.club:8080/VitorFaro2/9870/35620
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="| TVC SERIES" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvseries.png" group-title="GOLD",| TVC SERIES
+http://viphd4k.club:8080/VitorFaro2/9870/35614
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="| HOLLYWOOD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/hollywood.png" group-title="GOLD",| HOLLYWOOD
+http://viphd4k.club:8080/VitorFaro2/9870/35636
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="| CINEMUNDO" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Cinemundo.png" group-title="GOLD",| CINEMUNDO
+http://viphd4k.club:8080/VitorFaro2/9870/35674
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="| AXN" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20HD.png" group-title="GOLD",| AXN
+http://viphd4k.club:8080/VitorFaro2/9870/35685
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="| AXN BLACK" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20BLACK%20HD.png" group-title="GOLD",| AXN BLACK
+http://viphd4k.club:8080/VitorFaro2/9870/35684
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="| AXN WHITE" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Axn%20White%20HD.png" group-title="GOLD",| AXN WHITE
+http://viphd4k.club:8080/VitorFaro2/9870/35683
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="| AMC" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AMC%20HD.png" group-title="GOLD",| AMC
+http://viphd4k.club:8080/VitorFaro2/9870/35686
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="| FOX LIFE" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20LIFE.png" group-title="GOLD",| FOX LIFE
+http://viphd4k.club:8080/VitorFaro2/9870/35662
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="| FOX" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20HD.png" group-title="GOLD",| FOX
+http://viphd4k.club:8080/VitorFaro2/9870/35665
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="| FOX CRIME" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20CRIME.png" group-title="GOLD",| FOX CRIME
+http://viphd4k.club:8080/VitorFaro2/9870/35663
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="| FOX COMEDY" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20COMEDY.png" group-title="GOLD",| FOX COMEDY
+http://viphd4k.club:8080/VitorFaro2/9870/35661
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="| FOX MOVIES" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20MOVIES.png" group-title="GOLD",| FOX MOVIES
+http://viphd4k.club:8080/VitorFaro2/9870/35664
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="| SYFY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/syfy.png" group-title="GOLD",| SYFY
+http://viphd4k.club:8080/VitorFaro2/9870/35633
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="| CANAL Q" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CANAL%20Q.png" group-title="GOLD",| CANAL Q
+http://viphd4k.club:8080/VitorFaro2/9870/35678
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="| TLC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tlc.png" group-title="GOLD",| TLC
+http://viphd4k.club:8080/VitorFaro2/9870/35626
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="| MTV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mtv.png" group-title="GOLD",| MTV
+http://viphd4k.club:8080/VitorFaro2/9870/35652
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="| TV RECORD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvrecord.png" group-title="GOLD",| TV RECORD
+http://viphd4k.club:8080/VitorFaro2/9870/35621
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="| TV GLOBO PREMIUM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/globo.png" group-title="GOLD",| TV GLOBO PREMIUM
+http://viphd4k.club:8080/VitorFaro2/9870/35623
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="| TRAVEL CHANNEL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/travelchannel.png" group-title="GOLD",| TRAVEL CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/35613
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="| CAÇA & PESCA" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Caza%20y%20Pesca.png" group-title="GOLD",| CAÇA & PESCA
+http://viphd4k.club:8080/VitorFaro2/9870/35679
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="| TOROS TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/torostv.png" group-title="GOLD",| TOROS TV
+http://viphd4k.club:8080/VitorFaro2/9870/35624
+#EXTINF:-1 tvg-id="realmadridtv.pt" tvg-name="| REAL MADRID TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/realmadridtv.png" group-title="GOLD",| REAL MADRID TV
+http://viphd4k.club:8080/VitorFaro2/9870/35643
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="| ODISSEIA" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Odisseia.png" group-title="GOLD",| ODISSEIA
+http://viphd4k.club:8080/VitorFaro2/9870/35656
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="| CANAL HISTÓRIA" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20de%20Historia.png" group-title="GOLD",| CANAL HISTÓRIA
+http://viphd4k.club:8080/VitorFaro2/9870/35675
+#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="| NATIONAL GEOGRAPHIC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeo.png" group-title="GOLD",| NATIONAL GEOGRAPHIC
+http://viphd4k.club:8080/VitorFaro2/9870/35649
+#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="| NAT GEO WILD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeowild.png" group-title="GOLD",| NAT GEO WILD
+http://viphd4k.club:8080/VitorFaro2/9870/35651
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="| FOOD NETWORK" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Food%20Network.png" group-title="GOLD",| FOOD NETWORK
+http://viphd4k.club:8080/VitorFaro2/9870/35658
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="| E! ENTERTAINMENT" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/E!%20ENTERTAINMENT.png" group-title="GOLD",| E! ENTERTAINMENT
+http://viphd4k.club:8080/VitorFaro2/9870/35666
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase.pt" tvg-name="| DISCOVERY HD SHOWCASE" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISCOVERY%20SHOWCASE%20HD.png" group-title="GOLD",| DISCOVERY HD SHOWCASE
+http://viphd4k.club:8080/VitorFaro2/9870/35670
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="| DISCOVERY CHANNEL" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Discovery%20Channel.png" group-title="GOLD",| DISCOVERY CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/35671
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="| DOG TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DOG%20TV%20HD.png" group-title="GOLD",| DOG TV
+http://viphd4k.club:8080/VitorFaro2/9870/35660
+#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="| CNBC EUROPE" tvg-logo="" group-title="GOLD",| CNBC EUROPE
+http://viphd4k.club:8080/VitorFaro2/9870/35634
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="| CASAVISION" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CACAVISION.png" group-title="GOLD",| CASAVISION
+http://viphd4k.club:8080/VitorFaro2/9870/35677
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="| 24 KITCHEN" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/24%20KITCHEN%20HD.png" group-title="GOLD",| 24 KITCHEN
+http://viphd4k.club:8080/VitorFaro2/9870/35688
+#EXTINF:-1 tvg-id="" tvg-name="| BLAZE" tvg-logo="" group-title="GOLD",| BLAZE
+http://viphd4k.club:8080/VitorFaro2/9870/35655
+#EXTINF:-1 tvg-id="" tvg-name="| S+ ᴴᴰ" tvg-logo="" group-title="GOLD",| S+ ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/37316
+#EXTINF:-1 tvg-id="" tvg-name="----------GENERALISTAS----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",----------GENERALISTAS----------
+http://viphd4k.club:8080/VitorFaro2/9870/3942
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1*" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp1.png" group-title="PORTUGAL",RTP 1*
+http://viphd4k.club:8080/VitorFaro2/9870/3940
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp1.png" group-title="PORTUGAL",RTP 1 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3939
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp1.png" group-title="PORTUGAL",RTP 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3938
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP Internacional" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp_internacional.png" group-title="PORTUGAL",RTP Internacional
+http://viphd4k.club:8080/VitorFaro2/9870/3931
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2*" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp2.png" group-title="PORTUGAL",RTP 2*
+http://viphd4k.club:8080/VitorFaro2/9870/3937
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp2.png" group-title="PORTUGAL",RTP 2 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3936
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp2.png" group-title="PORTUGAL",RTP 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/4925
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC.png" group-title="PORTUGAL",SIC*
+http://viphd4k.club:8080/VitorFaro2/9870/3923
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20HD.png" group-title="PORTUGAL",SIC ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3922
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20HD.png" group-title="PORTUGAL",SIC FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3921
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="Sic International" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC.png" group-title="PORTUGAL",Sic International
+http://viphd4k.club:8080/VitorFaro2/9870/16695
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI.png" group-title="PORTUGAL",TVI*
+http://viphd4k.club:8080/VitorFaro2/9870/30895
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20HD.png" group-title="PORTUGAL",TVI ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3929
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20HD.png" group-title="PORTUGAL",TVI FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3928
+#EXTINF:-1 tvg-id="tviinternacional.pt" tvg-name="TVI International" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20PT.png" group-title="PORTUGAL",TVI International
+http://viphd4k.club:8080/VitorFaro2/9870/10296
+#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI Ficção*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20FICCAO.png" group-title="PORTUGAL",TVI Ficção*
+http://viphd4k.club:8080/VitorFaro2/9870/3927
+#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI Ficçao ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20FICCAO.png" group-title="PORTUGAL",TVI Ficçao ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3926
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20REALITY.png" group-title="PORTUGAL",TVI Reality*
+http://viphd4k.club:8080/VitorFaro2/9870/3925
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20REALITY.png" group-title="PORTUGAL",TVI Reality ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36062
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 1" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20REALITY%20PT.png" group-title="PORTUGAL",TVI REALITY CAMARA 1
+http://viphd4k.club:8080/VitorFaro2/9870/10311
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 2" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20REALITY%20PT.png" group-title="PORTUGAL",TVI REALITY CAMARA 2
+http://viphd4k.club:8080/VitorFaro2/9870/10312
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 3" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20REALITY%20PT.png" group-title="PORTUGAL",TVI REALITY CAMARA 3
+http://viphd4k.club:8080/VitorFaro2/9870/10313
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 4" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20REALITY%20PT.png" group-title="PORTUGAL",TVI REALITY CAMARA 4
+http://viphd4k.club:8080/VitorFaro2/9870/10314
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY MOSAICO" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/TVI%20REALITY%20PT.png" group-title="PORTUGAL",TVI REALITY MOSAICO
+http://viphd4k.club:8080/VitorFaro2/9870/10310
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Porto%20Canal.png" group-title="PORTUGAL",Porto Canal*
+http://viphd4k.club:8080/VitorFaro2/9870/3915
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Porto%20Canal%20HD.png" group-title="PORTUGAL",Porto Canal ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4892
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP Acores" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp_acores.png" group-title="PORTUGAL",RTP Acores
+http://viphd4k.club:8080/VitorFaro2/9870/3935
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp_africa.png" group-title="PORTUGAL",RTP Africa
+http://viphd4k.club:8080/VitorFaro2/9870/3934
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp_madeira.png" group-title="PORTUGAL",RTP Madeira
+http://viphd4k.club:8080/VitorFaro2/9870/3933
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria" tvg-logo="http://logosptgoldtv.ddns.net/novos/rtp_memoria.png" group-title="PORTUGAL",RTP Memoria
+http://viphd4k.club:8080/VitorFaro2/9870/3932
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20MULHER.png" group-title="PORTUGAL",SIC Mulher*
+http://viphd4k.club:8080/VitorFaro2/9870/3919
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Sic Mulher ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20MULHER%20HD.png" group-title="PORTUGAL",Sic Mulher ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/32054
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="SIC Caras" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20CARAS.png" group-title="PORTUGAL",SIC Caras
+http://viphd4k.club:8080/VitorFaro2/9870/3920
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="Sic Caras ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SiC%20CARAS%20HD.png" group-title="PORTUGAL",Sic Caras ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4894
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20Radical.png" group-title="PORTUGAL",SIC Radical*
+http://viphd4k.club:8080/VitorFaro2/9870/3918
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Sic Radical ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20RADICAL%20HD.png" group-title="PORTUGAL",Sic Radical ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4893
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="Canal Q" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CANAL%20Q.png" group-title="PORTUGAL",Canal Q
+http://viphd4k.club:8080/VitorFaro2/9870/3914
+#EXTINF:-1 tvg-id="" tvg-name="---------- Noticias ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",---------- Noticias ----------
+http://viphd4k.club:8080/VitorFaro2/9870/3913
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/RTP%203.png" group-title="PORTUGAL",RTP 3
+http://viphd4k.club:8080/VitorFaro2/9870/3912
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/RTP%203%20HD.png" group-title="PORTUGAL",RTP 3 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3911
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/RTP%203%20HD.png" group-title="PORTUGAL",RTP 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25603
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tvi%2024.png" group-title="PORTUGAL",TVI 24
+http://viphd4k.club:8080/VitorFaro2/9870/3908
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24 ᴴᴰ*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tvi%2024.png" group-title="PORTUGAL",TVI 24 ᴴᴰ*
+http://viphd4k.club:8080/VitorFaro2/9870/3907
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20NOTICIAS.png" group-title="PORTUGAL",SIC Noticias
+http://viphd4k.club:8080/VitorFaro2/9870/3910
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20NOTICIAS%20HD.png" group-title="PORTUGAL",SIC Noticias ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3909
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="Sic Noticias FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20NOTICIAS%20HD.png" group-title="PORTUGAL",Sic Noticias FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25599
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CM%20TV.png" group-title="PORTUGAL",CMTV*
+http://viphd4k.club:8080/VitorFaro2/9870/3906
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CMTV%20HD.png" group-title="PORTUGAL",CMTV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36252
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CMTV%20HD.png" group-title="PORTUGAL",CMTV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36253
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CNN.png" group-title="PORTUGAL",CNN ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3901
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Euronews.png" group-title="PORTUGAL",Euronews PT
+http://viphd4k.club:8080/VitorFaro2/9870/3903
+#EXTINF:-1 tvg-id="foxnews.pt" tvg-name="Fox News" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/foxnews.png" group-title="PORTUGAL",Fox News
+http://viphd4k.club:8080/VitorFaro2/9870/32100
+#EXTINF:-1 tvg-id="" tvg-name="---------- Infantil ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",---------- Infantil ----------
+http://viphd4k.club:8080/VitorFaro2/9870/3825
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="SIC Kids" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20K.png" group-title="PORTUGAL",SIC Kids
+http://viphd4k.club:8080/VitorFaro2/9870/3818
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="Sic K ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/SIC%20K%20PT.png" group-title="PORTUGAL",Sic K ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/10294
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Panda Biggs" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/PANDA%20BIGGS.png" group-title="PORTUGAL",Panda Biggs
+http://viphd4k.club:8080/VitorFaro2/9870/3820
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Panda*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20Panda.png" group-title="PORTUGAL",Panda*
+http://viphd4k.club:8080/VitorFaro2/9870/3819
+#EXTINF:-1 tvg-id="Canal Panda PT" tvg-name="Panda ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20Panda.png" group-title="PORTUGAL",Panda ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/25254
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Nickelodeon.png" group-title="PORTUGAL",Nickelodeon
+http://viphd4k.club:8080/VitorFaro2/9870/3824
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nick Jr" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Nick%20Jr..png" group-title="PORTUGAL",Nick Jr
+http://viphd4k.club:8080/VitorFaro2/9870/6313
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nick Jr ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickjr.png" group-title="PORTUGAL",Nick Jr ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/32055
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISNEY%20CHANNEL.png" group-title="PORTUGAL",Disney Channel
+http://viphd4k.club:8080/VitorFaro2/9870/3822
+#EXTINF:-1 tvg-id="Disney Channel PT" tvg-name="Disney Channel ᴴᴰ*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISNEY%20CHANNEL.png" group-title="PORTUGAL",Disney Channel ᴴᴰ*
+http://viphd4k.club:8080/VitorFaro2/9870/25257
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Disney%20Junior.png" group-title="PORTUGAL",Disney Junior
+http://viphd4k.club:8080/VitorFaro2/9870/3817
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Disney%20Junior.png" group-title="PORTUGAL",Disney Junior ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/32057
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CARTOON%20NETWORK.png" group-title="PORTUGAL",Cartoon Network
+http://viphd4k.club:8080/VitorFaro2/9870/3816
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CARTOON%20NETWORK.png" group-title="PORTUGAL",Cartoon Network ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/30599
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="Baby TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/BABY%20TV.png" group-title="PORTUGAL",Baby TV
+http://viphd4k.club:8080/VitorFaro2/9870/3821
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="JimJam" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/JIM%20JAM.png" group-title="PORTUGAL",JimJam
+http://viphd4k.club:8080/VitorFaro2/9870/3823
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boomerang.png" group-title="PORTUGAL",Boomerang
+http://viphd4k.club:8080/VitorFaro2/9870/32027
+#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="Tiji" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Baby%20First.png" group-title="PORTUGAL",Tiji
+http://viphd4k.club:8080/VitorFaro2/9870/4897
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostv.png" group-title="PORTUGAL",Kuriakos Kids
+http://viphd4k.club:8080/VitorFaro2/9870/31271
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostvhd.png" group-title="PORTUGAL",Kuriakos Kids ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/31272
+#EXTINF:-1 tvg-id="" tvg-name="-------- Desporto --------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",-------- Desporto --------
+http://viphd4k.club:8080/VitorFaro2/9870/11874
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV +" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV+.png" group-title="PORTUGAL",Sport TV +
+http://viphd4k.club:8080/VitorFaro2/9870/3899
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV+ ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV+%20HD.png" group-title="PORTUGAL",Sport TV+ ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4887
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV+ FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV+%20HD.png" group-title="PORTUGAL",Sport TV+ FHD
+http://viphd4k.club:8080/VitorFaro2/9870/4941
+#EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport TV 4K UHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%204K%20UHD%20(BETA).png" group-title="PORTUGAL",Sport TV 4K UHD
+http://viphd4k.club:8080/VitorFaro2/9870/13180
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV1.png" group-title="PORTUGAL",Sport TV 1*
+http://viphd4k.club:8080/VitorFaro2/9870/36251
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%201%20HD.png" group-title="PORTUGAL",Sport TV 1 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/10347
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%201%20FULLHD.png" group-title="PORTUGAL",Sport TV 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3895
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD {sat}" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%201%20FULLHD.png" group-title="PORTUGAL",Sport TV 1 FHD {sat}
+http://viphd4k.club:8080/VitorFaro2/9870/30580
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sporttv2.png" group-title="PORTUGAL",Sport TV 2*
+http://viphd4k.club:8080/VitorFaro2/9870/26845
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%202%20HD.png" group-title="PORTUGAL",Sport TV 2 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3890
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%202%20FULLHD.png" group-title="PORTUGAL",Sport TV 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3889
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD {sat}" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%202%20FULLHD.png" group-title="PORTUGAL",Sport TV 2 FHD {sat}
+http://viphd4k.club:8080/VitorFaro2/9870/30581
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV3.png" group-title="PORTUGAL",Sport TV 3*
+http://viphd4k.club:8080/VitorFaro2/9870/30954
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%203%20HD.png" group-title="PORTUGAL",Sport TV 3 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3887
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%203%20FULLHD.png" group-title="PORTUGAL",Sport TV 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3886
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD {sat}" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%203%20FULLHD.png" group-title="PORTUGAL",Sport TV 3 FHD {sat}
+http://viphd4k.club:8080/VitorFaro2/9870/30582
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV4.png" group-title="PORTUGAL",Sport TV 4*
+http://viphd4k.club:8080/VitorFaro2/9870/3885
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV4%20HD.png" group-title="PORTUGAL",Sport TV 4 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3884
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV%204%20FULLHD.png" group-title="PORTUGAL",Sport TV 4 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3883
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV5.png" group-title="PORTUGAL",Sport TV 5*
+http://viphd4k.club:8080/VitorFaro2/9870/3882
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV5%20HD.png" group-title="PORTUGAL",Sport TV 5 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3881
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV5%20FULLHD.png" group-title="PORTUGAL",Sport TV 5 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/3880
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports1.png" group-title="PORTUGAL",Eleven Sports 1°
+http://viphd4k.club:8080/VitorFaro2/9870/26690
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports1hd.png" group-title="PORTUGAL",Eleven Sports 1° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/30956
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1° HD {sat}" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports1hd.png" group-title="PORTUGAL",Eleven Sports 1° HD {sat}
+http://viphd4k.club:8080/VitorFaro2/9870/31834
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports2.png" group-title="PORTUGAL",Eleven Sports 2°
+http://viphd4k.club:8080/VitorFaro2/9870/26691
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports2hd.png" group-title="PORTUGAL",Eleven Sports 2° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26683
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports3.png" group-title="PORTUGAL",Eleven Sports 3°
+http://viphd4k.club:8080/VitorFaro2/9870/26692
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports3hd.png" group-title="PORTUGAL",Eleven Sports 3° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26684
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports4.png" group-title="PORTUGAL",Eleven Sports 4°
+http://viphd4k.club:8080/VitorFaro2/9870/30959
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports4hd.png" group-title="PORTUGAL",Eleven Sports 4° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26685
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="PORTUGAL",Eleven Sports 5°
+http://viphd4k.club:8080/VitorFaro2/9870/30958
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="PORTUGAL",Eleven Sports 5° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26686
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6°" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="PORTUGAL",Eleven Sports 6°
+http://viphd4k.club:8080/VitorFaro2/9870/26695
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6° ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="PORTUGAL",Eleven Sports 6° ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26687
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201.png" group-title="PORTUGAL",Benfica TV*
+http://viphd4k.club:8080/VitorFaro2/9870/3879
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201%20HD.png" group-title="PORTUGAL",Benfica TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3878
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201%20FULLHD.png" group-title="PORTUGAL",Benfica TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/4928
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="Benfica TV FHD {sat}" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201%20FULLHD.png" group-title="PORTUGAL",Benfica TV FHD {sat}
+http://viphd4k.club:8080/VitorFaro2/9870/27358
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORTING%20TV.png" group-title="PORTUGAL",Sporting TV
+http://viphd4k.club:8080/VitorFaro2/9870/3874
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORTING%20TV%20HD.png" group-title="PORTUGAL",Sporting TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3873
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="NBA ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NBA%20HD.png" group-title="PORTUGAL",NBA ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3875
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="NBA FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NBA%20HD.png" group-title="PORTUGAL",NBA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36384
+#EXTINF:-1 tvg-id="realmadridtv.pt" tvg-name="Real Madrid TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/REAL%20MADRID%20TVv2.png" group-title="PORTUGAL",Real Madrid TV
+http://viphd4k.club:8080/VitorFaro2/9870/3858
+#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="Barça TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/barcatv.png" group-title="PORTUGAL",Barça TV
+http://viphd4k.club:8080/VitorFaro2/9870/25562
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/A%20BOLA.png" group-title="PORTUGAL",A Bola TV
+http://viphd4k.club:8080/VitorFaro2/9870/3876
+#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A Bola TV ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/abolatv.png" group-title="PORTUGAL",A Bola TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/31833
+#EXTINF:-1 tvg-id="fightnetwork.pt" tvg-name="Fight Network FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FIGHT%20CHANNEL%20HD.png" group-title="PORTUGAL",Fight Network FHD
+http://viphd4k.club:8080/VitorFaro2/9870/4891
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sports" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/KOMBAT%20SPORTS.png" group-title="PORTUGAL",Kombat Sports
+http://viphd4k.club:8080/VitorFaro2/9870/3868
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sport" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/KOMBAT%20SPORTS.png" group-title="PORTUGAL",Kombat Sport
+http://viphd4k.club:8080/VitorFaro2/9870/6201
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel / Network" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FIGHT%20CHANNEL%20HD.png" group-title="PORTUGAL",Fight Channel / Network
+http://viphd4k.club:8080/VitorFaro2/9870/3869
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%201.png" group-title="PORTUGAL",Eurosport 1*
+http://viphd4k.club:8080/VitorFaro2/9870/3865
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%201%20HD.png" group-title="PORTUGAL",Eurosport 1 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3864
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%201%20HD.png" group-title="PORTUGAL",Eurosport 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/4940
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%202.png" group-title="PORTUGAL",Eurosport 2
+http://viphd4k.club:8080/VitorFaro2/9870/3863
+#EXTINF:-1 tvg-id="Eurosport 2 PT" tvg-name="Eurosport 2 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%202.png" group-title="PORTUGAL",Eurosport 2 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/37451
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/euronews.png" group-title="PORTUGAL",Euronews
+http://viphd4k.club:8080/VitorFaro2/9870/3866
+#EXTINF:-1 tvg-id="MotorVision HD PT" tvg-name="Motorvision" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/MOTORVISION.png" group-title="PORTUGAL",Motorvision
+http://viphd4k.club:8080/VitorFaro2/9870/3862
+#EXTINF:-1 tvg-id="motorstv.pt" tvg-name="Motorvision ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/MOTORVISION.png" group-title="PORTUGAL",Motorvision ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3861
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/PFC.png" group-title="PORTUGAL",PFC ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3872
+#EXTINF:-1 tvg-id="" tvg-name="NFL" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NFL%20NOW.png" group-title="PORTUGAL",NFL
+http://viphd4k.club:8080/VitorFaro2/9870/6202
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Caza%20y%20Pesca.png" group-title="PORTUGAL",Caça e Pesca
+http://viphd4k.club:8080/VitorFaro2/9870/3803
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Caçavision" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CACAVISION.png" group-title="PORTUGAL",Caçavision
+http://viphd4k.club:8080/VitorFaro2/9870/3802
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/OUTDOOR%20HD.png" group-title="PORTUGAL",Outdoor Channel
+http://viphd4k.club:8080/VitorFaro2/9870/4911
+#EXTINF:-1 tvg-id="" tvg-name="-------- Cinema&series ---------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",-------- Cinema&series ---------
+http://viphd4k.club:8080/VitorFaro2/9870/11875
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVSERIES%20HD.png" group-title="PORTUGAL",TV Series*
+http://viphd4k.club:8080/VitorFaro2/9870/36382
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVSERIES%20HD.png" group-title="PORTUGAL",TV Series ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36071
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVC 1*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%201.png" group-title="PORTUGAL",TVC 1*
+http://viphd4k.club:8080/VitorFaro2/9870/30896
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVC 1 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%201%20HD.png" group-title="PORTUGAL",TVC 1 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36063
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVC 1 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%201%20HD.png" group-title="PORTUGAL",TVC 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36064
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVC 2*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%202.png" group-title="PORTUGAL",TVC 2*
+http://viphd4k.club:8080/VitorFaro2/9870/32051
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVC 2 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%202%20HD.png" group-title="PORTUGAL",TVC 2 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36065
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVC 2 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%202%20HD.png" group-title="PORTUGAL",TVC 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36066
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVC 3 *" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%203.png" group-title="PORTUGAL",TVC 3 *
+http://viphd4k.club:8080/VitorFaro2/9870/3852
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVC 3 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%203%20HD.png" group-title="PORTUGAL",TVC 3 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36067
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVC 3 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%203%20HD.png" group-title="PORTUGAL",TVC 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36068
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVC 4*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%204.png" group-title="PORTUGAL",TVC 4*
+http://viphd4k.club:8080/VitorFaro2/9870/3850
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVC 4 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%204%20HD.png" group-title="PORTUGAL",TVC 4 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36069
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVC 4 FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%204%20HD.png" group-title="PORTUGAL",TVC 4 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36070
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Hollywood.png" group-title="PORTUGAL",Hollywood*
+http://viphd4k.club:8080/VitorFaro2/9870/3846
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/HOLLYWOOD%20HD.png" group-title="PORTUGAL",Hollywood ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36072
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood FHD" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/HOLLYWOOD%20HD.png" group-title="PORTUGAL",Hollywood FHD
+http://viphd4k.club:8080/VitorFaro2/9870/32056
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Cinemundo.png" group-title="PORTUGAL",Cinemundo*
+http://viphd4k.club:8080/VitorFaro2/9870/3844
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="Cinemundo ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Cinemundo.png" group-title="PORTUGAL",Cinemundo ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/25563
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN.png" group-title="PORTUGAL",AXN TV*
+http://viphd4k.club:8080/VitorFaro2/9870/3834
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20HD.png" group-title="PORTUGAL",AXN TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3833
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN Black*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20BLACK.png" group-title="PORTUGAL",AXN Black*
+http://viphd4k.club:8080/VitorFaro2/9870/3830
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN Black ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20BLACK%20HD.png" group-title="PORTUGAL",AXN Black ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3829
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20WHITE.png" group-title="PORTUGAL",AXN White*
+http://viphd4k.club:8080/VitorFaro2/9870/3832
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Axn%20White%20HD.png" group-title="PORTUGAL",AXN White ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3831
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX.png" group-title="PORTUGAL",Fox TV*
+http://viphd4k.club:8080/VitorFaro2/9870/3843
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20HD.png" group-title="PORTUGAL",Fox TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3842
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Fox Comedy*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20COMEDY.png" group-title="PORTUGAL",Fox Comedy*
+http://viphd4k.club:8080/VitorFaro2/9870/3838
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX Comedy ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20Comedy%20HD.png" group-title="PORTUGAL",FOX Comedy ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4890
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20CRIME.png" group-title="PORTUGAL",FOX Crime*
+http://viphd4k.club:8080/VitorFaro2/9870/32050
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20CRIME%20HD.png" group-title="PORTUGAL",FOX Crime ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4918
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20LIFE.png" group-title="PORTUGAL",Fox Life TV*
+http://viphd4k.club:8080/VitorFaro2/9870/30960
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Fox%20Life%20HD.png" group-title="PORTUGAL",FOX Life TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4920
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Fox Movies*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20MOVIES.png" group-title="PORTUGAL",Fox Movies*
+http://viphd4k.club:8080/VitorFaro2/9870/3840
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX MOVIES ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20MOVIES%20HD.png" group-title="PORTUGAL",FOX MOVIES ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/6314
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SyFy TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SYFY.png" group-title="PORTUGAL",SyFy TV*
+http://viphd4k.club:8080/VitorFaro2/9870/3836
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SyFy TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SyFy%20HD.png" group-title="PORTUGAL",SyFy TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3835
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC TV*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AMC.png" group-title="PORTUGAL",AMC TV*
+http://viphd4k.club:8080/VitorFaro2/9870/3827
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AMC%20HD.png" group-title="PORTUGAL",AMC TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3826
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TLC.png" group-title="PORTUGAL",TLC*
+http://viphd4k.club:8080/VitorFaro2/9870/3795
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TLC.png" group-title="PORTUGAL",TLC ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/26808
+#EXTINF:-1 tvg-id="" tvg-name="---------- Cultura ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",---------- Cultura ----------
+http://viphd4k.club:8080/VitorFaro2/9870/3815
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Discovery%20Channel.png" group-title="PORTUGAL",Discovery Channel TV
+http://viphd4k.club:8080/VitorFaro2/9870/3807
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Discovery%20Channel%20HD.png" group-title="PORTUGAL",Discovery Channel TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3806
+#EXTINF:-1 tvg-id="discoveryshowcase.pt" tvg-name="Discovery Showcase" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISCOVERY%20SHOWCASE%20HD.png" group-title="PORTUGAL",Discovery Showcase
+http://viphd4k.club:8080/VitorFaro2/9870/3805
+#EXTINF:-1 tvg-id="discoveryshowcase.pt" tvg-name="Discovery Showcase ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISCOVERY%20SHOWCASE%20HD.png" group-title="PORTUGAL",Discovery Showcase ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3804
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigação ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/idinvestigationdiscoveryd.png" group-title="PORTUGAL",Discovery Investigação ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/32028
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="Historia*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20de%20Historia.png" group-title="PORTUGAL",Historia*
+http://viphd4k.club:8080/VitorFaro2/9870/3813
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="Historia ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20de%20Historia.png" group-title="PORTUGAL",Historia ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3812
+#EXTINF:-1 tvg-id="natgeo.pt" tvg-name="National Geographic*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL",National Geographic*
+http://viphd4k.club:8080/VitorFaro2/9870/3811
+#EXTINF:-1 tvg-id="natgeo.pt" tvg-name="National Geographic ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL",National Geographic ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3810
+#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="National Geographic Wild" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NAT%20GEO%20WILD.png" group-title="PORTUGAL",National Geographic Wild
+http://viphd4k.club:8080/VitorFaro2/9870/3809
+#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="National Geographic Wild ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL",National Geographic Wild ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3808
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Odisseia.png" group-title="PORTUGAL",Odisseia
+http://viphd4k.club:8080/VitorFaro2/9870/3799
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Odisseia.png" group-title="PORTUGAL",Odisseia ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36891
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Toros%20TV.png" group-title="PORTUGAL",Toros TV
+http://viphd4k.club:8080/VitorFaro2/9870/3860
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="Food Network ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Food%20Network.png" group-title="PORTUGAL",Food Network ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3797
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="Travel Channel TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TRAVEL%20CHANNEL%20HD.png" group-title="PORTUGAL",Travel Channel TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4910
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="Fuel TV ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FUEL%20TV%20HD.png" group-title="PORTUGAL",Fuel TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4913
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="Crime + Investigation" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CRIME%20INVESTIGATION.png" group-title="PORTUGAL",Crime + Investigation
+http://viphd4k.club:8080/VitorFaro2/9870/3814
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/E!%20ENTERTAINMENT.png" group-title="PORTUGAL",E! Entertainment
+http://viphd4k.club:8080/VitorFaro2/9870/3800
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/E!%20ENTERTAINMENT.png" group-title="PORTUGAL",E! Entertainment ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/16696
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/24%20KITCHEN.png" group-title="PORTUGAL",24 Kitchen*
+http://viphd4k.club:8080/VitorFaro2/9870/6575
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/24%20KITCHEN%20HD.png" group-title="PORTUGAL",24 Kitchen ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3796
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="ARTV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TV%20PARLAMENTO.png" group-title="PORTUGAL",ARTV
+http://viphd4k.club:8080/VitorFaro2/9870/3904
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="Dog TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DOG%20TV%20HD.png" group-title="PORTUGAL",Dog TV
+http://viphd4k.club:8080/VitorFaro2/9870/4914
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/blaze.png" group-title="PORTUGAL",Blaze*
+http://viphd4k.club:8080/VitorFaro2/9870/3828
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/blaze.png" group-title="PORTUGAL",Blaze
+http://viphd4k.club:8080/VitorFaro2/9870/20185
+#EXTINF:-1 tvg-id="aande.pt" tvg-name="Blaze ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/blaze.png" group-title="PORTUGAL",Blaze ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/36892
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="Fuel TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FUEL%20TV.png" group-title="PORTUGAL",Fuel TV
+http://viphd4k.club:8080/VitorFaro2/9870/3798
+#EXTINF:-1 tvg-id="sundancetv.pt" tvg-name="Sundance" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SUNDANCE%20HD.png" group-title="PORTUGAL",Sundance
+http://viphd4k.club:8080/VitorFaro2/9870/6205
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="Localvisao ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Localvisao%20HD.png" group-title="PORTUGAL",Localvisao ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3917
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="LocalVisãoTV ᴴᴰ*" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/LOCALVISON%20HD%20PT.png" group-title="PORTUGAL",LocalVisãoTV ᴴᴰ*
+http://viphd4k.club:8080/VitorFaro2/9870/10297
+#EXTINF:-1 tvg-id="" tvg-name="Luxe.TV ᴴᴰ*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/LUXE%20TV%20HD.png" group-title="PORTUGAL",Luxe.TV ᴴᴰ*
+http://viphd4k.club:8080/VitorFaro2/9870/10295
+#EXTINF:-1 tvg-id="" tvg-name="My Cuisine" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/My%20Cuisine.png" group-title="PORTUGAL",My Cuisine
+http://viphd4k.club:8080/VitorFaro2/9870/6203
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="PORTUGAL",Mas Chic
+http://viphd4k.club:8080/VitorFaro2/9870/6204
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fatima" tvg-logo="" group-title="PORTUGAL",Santuário de Fatima
+http://viphd4k.club:8080/VitorFaro2/9870/16885
+#EXTINF:-1 tvg-id="" tvg-name="Paroquia de Fatima" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvfatima.png" group-title="PORTUGAL",Paroquia de Fatima
+http://viphd4k.club:8080/VitorFaro2/9870/16886
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostv.png" group-title="PORTUGAL",Kuriakos TV
+http://viphd4k.club:8080/VitorFaro2/9870/6209
+#EXTINF:-1 tvg-id="KuriakosTVFullHD" tvg-name="Kuriakos TV ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostv.png" group-title="PORTUGAL",Kuriakos TV ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/6208
+#EXTINF:-1 tvg-id="" tvg-name="---------- Musica ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",---------- Musica ----------
+http://viphd4k.club:8080/VitorFaro2/9870/3791
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AFRO%20MUSIC.png" group-title="PORTUGAL",Afro Music
+http://viphd4k.club:8080/VitorFaro2/9870/3784
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Mtv%20Portugal.png" group-title="PORTUGAL",MTV Base
+http://viphd4k.club:8080/VitorFaro2/9870/3783
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Mtv%20Portugal.png" group-title="PORTUGAL",MTV Portugal
+http://viphd4k.club:8080/VitorFaro2/9870/3787
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/IPTVGOLD/MTV%20PORTUGAL%20PT.png" group-title="PORTUGAL",MTV PORTUGAL ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/10320
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/MCM%20POP.png" group-title="PORTUGAL",MCM Pop
+http://viphd4k.club:8080/VitorFaro2/9870/3785
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM Top" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/MCM%20TOP.png" group-title="PORTUGAL",MCM Top
+http://viphd4k.club:8080/VitorFaro2/9870/3786
+#EXTINF:-1 tvg-id="" tvg-name="iConcerts" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/iCONCERTS%20HD.png" group-title="PORTUGAL",iConcerts
+http://viphd4k.club:8080/VitorFaro2/9870/5196
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostv.png" group-title="PORTUGAL",Kuriakos Music
+http://viphd4k.club:8080/VitorFaro2/9870/31273
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music ᴴᴰ" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/kuriakostvhd.png" group-title="PORTUGAL",Kuriakos Music ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/31274
+#EXTINF:-1 tvg-id="vh1classic.pt" tvg-name="VH1 Classic" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/VH1%20Classic.png" group-title="PORTUGAL",VH1 Classic
+http://viphd4k.club:8080/VitorFaro2/9870/3789
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/VH1.png" group-title="PORTUGAL",VH1
+http://viphd4k.club:8080/VitorFaro2/9870/3790
+#EXTINF:-1 tvg-id="" tvg-name="One Music 1 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/ONE%201%20HD.png" group-title="PORTUGAL",One Music 1 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4889
+#EXTINF:-1 tvg-id="" tvg-name="One Music 4 ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/ONE%202%20HD.png" group-title="PORTUGAL",One Music 4 ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/4888
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/MEZZO%20HD.png" group-title="PORTUGAL",Mezzo
+http://viphd4k.club:8080/VitorFaro2/9870/4912
+#EXTINF:-1 tvg-id="" tvg-name="---------- Internacionais ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/pt.png" group-title="PORTUGAL",---------- Internacionais ----------
+http://viphd4k.club:8080/VitorFaro2/9870/3777
+#EXTINF:-1 tvg-id="sundancetv.pt" tvg-name="Sundance Channel ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SUNDANCE%20HD.png" group-title="PORTUGAL",Sundance Channel ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3837
+#EXTINF:-1 tvg-id="" tvg-name="TCV International" tvg-logo="" group-title="PORTUGAL",TCV International
+http://viphd4k.club:8080/VitorFaro2/9870/16888
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="CançaoNova" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TV%20CANCAO%20NOVA.png" group-title="PORTUGAL",CançaoNova
+http://viphd4k.club:8080/VitorFaro2/9870/3771
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/m6.png" group-title="PORTUGAL",M6
+http://viphd4k.club:8080/VitorFaro2/9870/10318
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="TV Globo*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvglobo.png" group-title="PORTUGAL",TV Globo*
+http://viphd4k.club:8080/VitorFaro2/9870/36381
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="TV Globo ᴴᴰ*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TV%20GLOBO%20Portugal.png" group-title="PORTUGAL",TV Globo ᴴᴰ*
+http://viphd4k.club:8080/VitorFaro2/9870/3775
+#EXTINF:-1 tvg-id="globopremium.pt" tvg-name="TV Globo Now" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TV%20GLOBO%20PREMIUM.png" group-title="PORTUGAL",TV Globo Now
+http://viphd4k.club:8080/VitorFaro2/9870/3774
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="TV Record*" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tv%20Record.png" group-title="PORTUGAL",TV Record*
+http://viphd4k.club:8080/VitorFaro2/9870/3773
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="TV Record ᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tv%20Record%20HD.png" group-title="PORTUGAL",TV Record ᴴᴰ
+http://viphd4k.club:8080/VitorFaro2/9870/3772
+#EXTINF:-1 tvg-id="" tvg-name="Mav TV" tvg-logo="" group-title="PORTUGAL",Mav TV
+http://viphd4k.club:8080/VitorFaro2/9870/36061
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban TV" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Trace%20TV.png" group-title="PORTUGAL",Trace Urban TV
+http://viphd4k.club:8080/VitorFaro2/9870/3788
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="Travel Channel" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TRAVEL%20CHANNEL%20HD.png" group-title="PORTUGAL",Travel Channel
+http://viphd4k.club:8080/VitorFaro2/9870/3794
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="CBS Reality" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CBS%20REALITY.png" group-title="PORTUGAL",CBS Reality
+http://viphd4k.club:8080/VitorFaro2/9870/3801
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="TPA Angola" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TPA%20INTERNACIONAL.png" group-title="PORTUGAL",TPA Angola
+http://viphd4k.club:8080/VitorFaro2/9870/3916
+#EXTINF:-1 tvg-id="Red Bull TV HD" tvg-name="Red Bull TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/redbulltv.png" group-title="PORTUGAL",Red Bull TV
+http://viphd4k.club:8080/VitorFaro2/9870/22944
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/aljazeera.png" group-title="PORTUGAL",Al Jazeera
+http://viphd4k.club:8080/VitorFaro2/9870/6206
+#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="Trace Africa HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/traceafrica.png" group-title="PORTUGAL",Trace Africa HD
+http://viphd4k.club:8080/VitorFaro2/9870/25598
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tracetropical.png" group-title="PORTUGAL",Trace Tropical HD
+http://viphd4k.club:8080/VitorFaro2/9870/25597
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC EUROPE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/classcnbc.png" group-title="PORTUGAL",CNBC EUROPE
+http://viphd4k.club:8080/VitorFaro2/9870/25608
+#EXTINF:-1 tvg-id="TVFatima.pt" tvg-name="Capelinha de Fátima" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvfatima.png" group-title="PORTUGAL",Capelinha de Fátima
+http://viphd4k.club:8080/VitorFaro2/9870/35888
+#EXTINF:-1 tvg-id="AngelusTV.pt" tvg-name="Angelus TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/angelustv.png" group-title="PORTUGAL",Angelus TV
+http://viphd4k.club:8080/VitorFaro2/9870/35887
+#EXTINF:-1 tvg-id="" tvg-name="------------- Canais-net.Fraca-------------" tvg-logo="" group-title="CANAIS NET FRACA",------------- Canais-net.Fraca-------------
+http://viphd4k.club:8080/VitorFaro2/9870/16697
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 Low" tvg-logo="" group-title="CANAIS NET FRACA",RTP 1 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6296
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/RTP%202.png" group-title="CANAIS NET FRACA",RTP 2 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6295
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/RTP%203.png" group-title="CANAIS NET FRACA",RTP 3 LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6294
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20LOW%20BITRATE.png" group-title="CANAIS NET FRACA",SIC Low
+http://viphd4k.club:8080/VitorFaro2/9870/6293
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20LOW%20BITRATE.png" group-title="CANAIS NET FRACA",TVI Low
+http://viphd4k.club:8080/VitorFaro2/9870/6290
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24 LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tvi%2024.png" group-title="CANAIS NET FRACA",TVI 24 LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6291
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FICÇÃO LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20FICCAO.png" group-title="CANAIS NET FRACA",TVI FICÇÃO LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11765
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI REALITY LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVI%20REALITY.png" group-title="CANAIS NET FRACA",TVI REALITY LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11766
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CM%20TV.png" group-title="CANAIS NET FRACA",CMTV Low
+http://viphd4k.club:8080/VitorFaro2/9870/6289
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="SPORT TV 4K UHD Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%204K%20UHD%20(BETA).png" group-title="CANAIS NET FRACA",SPORT TV 4K UHD Low
+http://viphd4k.club:8080/VitorFaro2/9870/36958
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV1.png" group-title="CANAIS NET FRACA",SportTV 1 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6305
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%201%20HD.png" group-title="CANAIS NET FRACA",SPORT TV 1 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11762
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV2.png" group-title="CANAIS NET FRACA",SportTV 2 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6304
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%202%20HD.png" group-title="CANAIS NET FRACA",SPORT TV 2 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11760
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV3.png" group-title="CANAIS NET FRACA",SportTV 3 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6303
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV%203%20HD.png" group-title="CANAIS NET FRACA",SPORT TV 3 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11758
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SportTV 4 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV4.png" group-title="CANAIS NET FRACA",SportTV 4 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6302
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV4%20HD.png" group-title="CANAIS NET FRACA",SPORT TV 4 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11756
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SportTV 5 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORT.TV5.png" group-title="CANAIS NET FRACA",SportTV 5 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6301
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Sport.TV5%20FULLHD.png" group-title="CANAIS NET FRACA",SPORT TV 5 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11754
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/velevensports1.png" group-title="CANAIS NET FRACA",Eleven Sports 1° Low
+http://viphd4k.club:8080/VitorFaro2/9870/30583
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/velevensports2.png" group-title="CANAIS NET FRACA",Eleven Sports 2° Low
+http://viphd4k.club:8080/VitorFaro2/9870/30584
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports3.png" group-title="CANAIS NET FRACA",Eleven Sports 3° Low
+http://viphd4k.club:8080/VitorFaro2/9870/34170
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports4.png" group-title="CANAIS NET FRACA",Eleven Sports 4° Low
+http://viphd4k.club:8080/VitorFaro2/9870/34171
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="CANAIS NET FRACA",Eleven Sports 5° Low
+http://viphd4k.club:8080/VitorFaro2/9870/34172
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6° Low" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/elevensports.png" group-title="CANAIS NET FRACA",Eleven Sports 6° Low
+http://viphd4k.club:8080/VitorFaro2/9870/34173
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Benfica%20TV%201.png" group-title="CANAIS NET FRACA",BTV Low
+http://viphd4k.club:8080/VitorFaro2/9870/6306
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/BTV%201%20LOW%20BITRATE.png" group-title="CANAIS NET FRACA",BTV 1 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11752
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/BTV%201%20LOW%20BITRATE.png" group-title="CANAIS NET FRACA",BTV 1 LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11751
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SPORTING%20TV.png" group-title="CANAIS NET FRACA",Sporting TV LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6292
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Porto%20Canal.png" group-title="CANAIS NET FRACA",Porto Canal LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6310
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1 HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/EUROSPORT%201%20HD.png" group-title="CANAIS NET FRACA",EUROSPORT 1 HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11750
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVCine 1 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%201.png" group-title="CANAIS NET FRACA",TVCine 1 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6300
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVCine 2 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%202.png" group-title="CANAIS NET FRACA",TVCine 2 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6299
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVCine 3 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%203.png" group-title="CANAIS NET FRACA",TVCine 3 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6298
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVCine 4 Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%204.png" group-title="CANAIS NET FRACA",TVCine 4 Low
+http://viphd4k.club:8080/VitorFaro2/9870/6297
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="HOLLYWOOD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Hollywood.png" group-title="CANAIS NET FRACA",HOLLYWOOD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11745
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX.png" group-title="CANAIS NET FRACA",FOX LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6311
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/CINEMUNDO%20HD.png" group-title="CANAIS NET FRACA",CINEMUNDO LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11744
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20HD.png" group-title="CANAIS NET FRACA",FOX HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11737
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX LIFE HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20LIFE.png" group-title="CANAIS NET FRACA",FOX LIFE HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11738
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX CRIME HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20CRIME%20HD.png" group-title="CANAIS NET FRACA",FOX CRIME HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11736
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN Black Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20BLACK.png" group-title="CANAIS NET FRACA",AXN Black Low
+http://viphd4k.club:8080/VitorFaro2/9870/6309
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN.png" group-title="CANAIS NET FRACA",AXN Low
+http://viphd4k.club:8080/VitorFaro2/9870/6308
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20WHITE.png" group-title="CANAIS NET FRACA",AXN White Low
+http://viphd4k.club:8080/VitorFaro2/9870/6307
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Fox Comedy LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20COMEDY.png" group-title="CANAIS NET FRACA",Fox Comedy LOW
+http://viphd4k.club:8080/VitorFaro2/9870/6312
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC Low" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AMC.png" group-title="CANAIS NET FRACA",AMC Low
+http://viphd4k.club:8080/VitorFaro2/9870/6316
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SIC%20NOTICIAS.png" group-title="CANAIS NET FRACA",SIC NOTICIAS LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11767
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYfY LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/SYFY.png" group-title="CANAIS NET FRACA",SYfY LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11742
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TVCINE%20SERIES.png" group-title="CANAIS NET FRACA",TV Series LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11739
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="TV RECORD HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Tv%20Record.png" group-title="CANAIS NET FRACA",TV RECORD HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11734
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="GLOBO PORTUGAL LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/TV%20GLOBO%20Portugal.png" group-title="CANAIS NET FRACA",GLOBO PORTUGAL LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11735
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX MOVIES LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FOX%20MOVIES.png" group-title="CANAIS NET FRACA",FOX MOVIES LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11743
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN BLACK HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/AXN%20BLACK%20HD.png" group-title="CANAIS NET FRACA",AXN BLACK HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11740
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Axn%20White%20HD.png" group-title="CANAIS NET FRACA",AXN WHITE HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11741
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PANDA LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/Canal%20Panda.png" group-title="CANAIS NET FRACA",PANDA LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11763
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="DISNEY CHANNEL LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISNEY%20CHANNEL.png" group-title="CANAIS NET FRACA",DISNEY CHANNEL LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11764
+#EXTINF:-1 tvg-id="discoveryshowcase.pt" tvg-name="DISCOVERY SHOWCASE HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/DISCOVERY%20SHOWCASE%20HD.png" group-title="CANAIS NET FRACA",DISCOVERY SHOWCASE HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11731
+#EXTINF:-1 tvg-id="natgeo.pt" tvg-name="NATIONAL GEOGRAPHIC HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="CANAIS NET FRACA",NATIONAL GEOGRAPHIC HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11733
+#EXTINF:-1 tvg-id="Fine Living" tvg-name="FINE LIVING NETWORK HD LOW" tvg-logo="http://directlogos.dotsi.pt/PremiumGold/FINE%20LIVING%20HD.png" group-title="CANAIS NET FRACA",FINE LIVING NETWORK HD LOW
+http://viphd4k.club:8080/VitorFaro2/9870/11732
+#EXTINF:-1 tvg-id="" tvg-name="=====FRANCE =====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",=====FRANCE =====
+http://viphd4k.club:8080/VitorFaro2/9870/4182
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF1*" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/TF1.fr.png" group-title="FRANCE",FR: TF1*
+http://viphd4k.club:8080/VitorFaro2/9870/6743
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR:  TF1 HD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/TF1.fr.png" group-title="FRANCE",FR:  TF1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8996
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF1 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tf1hd.png" group-title="FRANCE",FR: TF1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11867
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR: TF1+1 FHD" tvg-logo="" group-title="FRANCE",FR: TF1+1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25990
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR: FRANCE 2*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france2.png" group-title="FRANCE",FR: FRANCE 2*
+http://viphd4k.club:8080/VitorFaro2/9870/32052
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR:  FRANCE 2 HD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/France2.fr.png" group-title="FRANCE",FR:  FRANCE 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/9009
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR: FRANCE 2 FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/France2.fr.png" group-title="FRANCE",FR: FRANCE 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11865
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FR:  FRANCE 3 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france3.png" group-title="FRANCE",FR:  FRANCE 3 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6715
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FR: FRANCE 3 FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/France3.fr.png" group-title="FRANCE",FR: FRANCE 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11864
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france4.png" group-title="FRANCE",FR: FRANCE 4 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6716
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FR: FRANCE 4 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france4.png" group-title="FRANCE",FR: FRANCE 4 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11863
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FR: FRANCE 5 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france5.png" group-title="FRANCE",FR: FRANCE 5 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6695
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FR: FRANCE 5 FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/France5.fr.png" group-title="FRANCE",FR: FRANCE 5 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11862
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="FR:  FRANCE Ô HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/franceo.png" group-title="FRANCE",FR:  FRANCE Ô HD
+http://viphd4k.club:8080/VitorFaro2/9870/6717
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/m6.png" group-title="FRANCE",FR: M6*
+http://viphd4k.club:8080/VitorFaro2/9870/6724
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR:  M6 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/m6.png" group-title="FRANCE",FR:  M6 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9004
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/m6.png" group-title="FRANCE",FR: M6 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11866
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/arte.png" group-title="FRANCE",FR: ARTE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8989
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR: C8 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/c8.png" group-title="FRANCE",FR: C8 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8970
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR: C8 FHD" tvg-logo="" group-title="FRANCE",FR: C8 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11860
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR: W9 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/w9hd.png" group-title="FRANCE",FR: W9 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6768
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR: W9 FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/W9.fr.png" group-title="FRANCE",FR: W9 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11861
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="" group-title="FRANCE",FR: TFX
+http://viphd4k.club:8080/VitorFaro2/9870/35293
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tfx.png" group-title="FRANCE",FR: TFX FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11825
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="FR: PARIS PREMIERE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/parispremiere.png" group-title="FRANCE",FR: PARIS PREMIERE*
+http://viphd4k.club:8080/VitorFaro2/9870/6761
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR: PARIS PREMIERE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/parispremierehd.png" group-title="FRANCE",FR: PARIS PREMIERE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8921
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR: PARIS PREMIERE FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/ParisPremiere.fr.png" group-title="FRANCE",FR: PARIS PREMIERE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11855
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR: TF1 SERIES FILMS FHD" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/TF1SeriesFilms.fr.png" group-title="FRANCE",FR: TF1 SERIES FILMS FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11809
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR: TF1 SERIES FILMS HD*" tvg-logo="http://lw708.ultraseedbox.com/~adminadminott/picons/fr/TF1SeriesFilms.fr.png" group-title="FRANCE",FR: TF1 SERIES FILMS HD*
+http://viphd4k.club:8080/VitorFaro2/9870/11808
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR: TEVA HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tevahd.png" group-title="FRANCE",FR: TEVA HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8997
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR:  TEVA FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tevahd.png" group-title="FRANCE",FR:  TEVA FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/6742
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR: 13 EME RUE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/13emerue.png" group-title="FRANCE",FR: 13 EME RUE*
+http://viphd4k.club:8080/VitorFaro2/9870/6673
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR: 13EME RUE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/13emerue.png" group-title="FRANCE",FR: 13EME RUE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8994
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR: 13EME RUE FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/13emerue.png" group-title="FRANCE",FR: 13EME RUE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11856
+#EXTINF:-1 tvg-id="hd1.fr" tvg-name="FR: HD1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/uhd1.png" group-title="FRANCE",FR: HD1
+http://viphd4k.club:8080/VitorFaro2/9870/6719
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ab1.png" group-title="FRANCE",FR: AB1
+http://viphd4k.club:8080/VitorFaro2/9870/8991
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR: AB3 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ab3.png" group-title="FRANCE",FR: AB3 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8990
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FR: FRANCE 24*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france24.png" group-title="FRANCE",FR: FRANCE 24*
+http://viphd4k.club:8080/VitorFaro2/9870/8945
+#EXTINF:-1 tvg-id="" tvg-name="FR: ITELE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/itelehd.png" group-title="FRANCE",FR: ITELE HD
+http://viphd4k.club:8080/VitorFaro2/9870/8973
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR: C STAR" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cstar.png" group-title="FRANCE",FR: C STAR
+http://viphd4k.club:8080/VitorFaro2/9870/8971
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="FR: 6TER*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/6ter.png" group-title="FRANCE",FR: 6TER*
+http://viphd4k.club:8080/VitorFaro2/9870/6674
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER FHD" tvg-logo="" group-title="FRANCE",FR: 6TER FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11858
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR: RTL9" tvg-logo="" group-title="FRANCE",FR: RTL9
+http://viphd4k.club:8080/VitorFaro2/9870/30900
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtl9.png" group-title="FRANCE",FR: RTL9 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6734
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR: CHERIE 25*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cherie25.png" group-title="FRANCE",FR: CHERIE 25*
+http://viphd4k.club:8080/VitorFaro2/9870/6697
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR: CHERIE 25 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cherie25.png" group-title="FRANCE",FR: CHERIE 25 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8948
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR: CHERRY 25 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cherie25.png" group-title="FRANCE",FR: CHERRY 25 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/8906
+#EXTINF:-1 tvg-id="numero23.fr" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/numero23hd.png" group-title="FRANCE",FR: TOUTE L'HISTOIRE HD
+http://viphd4k.club:8080/VitorFaro2/9870/8943
+#EXTINF:-1 tvg-id="equidialife.fr" tvg-name="FR: EQUIDIA LIVE FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/equidialivehd.png" group-title="FRANCE",FR: EQUIDIA LIVE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/8937
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ab1.png" group-title="FRANCE",FR: AB1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6681
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR: AB3 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ab3.png" group-title="FRANCE",FR: AB3 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8936
+#EXTINF:-1 tvg-id="" tvg-name="FR: A+ FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/aplus.png" group-title="FRANCE",FR: A+ FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13193
+#EXTINF:-1 tvg-id="onzeo.fr" tvg-name="FR: J-ONE TV HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/onetv.png" group-title="FRANCE",FR: J-ONE TV HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8935
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR: ACTION*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/action.png" group-title="FRANCE",FR: ACTION*
+http://viphd4k.club:8080/VitorFaro2/9870/6769
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR: ACTION FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/action.png" group-title="FRANCE",FR: ACTION FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11857
+#EXTINF:-1 tvg-id="Weo TV FR" tvg-name="FR: POLAR FHD" tvg-logo="" group-title="FRANCE",FR: POLAR FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25991
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR: CSTAR FHD" tvg-logo="" group-title="FRANCE",FR: CSTAR FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11859
+#EXTINF:-1 tvg-id="RTS Un HD CH" tvg-name="FR: RTS 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rts1.png" group-title="FRANCE",FR: RTS 1
+http://viphd4k.club:8080/VitorFaro2/9870/6736
+#EXTINF:-1 tvg-id="RTS Deux HD CH" tvg-name="FR: RTS 2*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rts2.png" group-title="FRANCE",FR: RTS 2*
+http://viphd4k.club:8080/VitorFaro2/9870/6735
+#EXTINF:-1 tvg-id="" tvg-name="FR: D8" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/d8.png" group-title="FRANCE",FR: D8
+http://viphd4k.club:8080/VitorFaro2/9870/6705
+#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="" group-title="FRANCE",FR: E!
+http://viphd4k.club:8080/VitorFaro2/9870/20017
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alticestudio.png" group-title="FRANCE",FR: ALTICE STUDIO FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13184
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alticestudio.png" group-title="FRANCE",FR: ALTICE STUDIO HD
+http://viphd4k.club:8080/VitorFaro2/9870/13183
+#EXTINF:-1 tvg-id="" tvg-name="FR: BIP TV" tvg-logo="" group-title="FRANCE",FR: BIP TV
+http://viphd4k.club:8080/VitorFaro2/9870/20020
+#EXTINF:-1 tvg-id="bravahd.fr" tvg-name="FR: BRAVA" tvg-logo="" group-title="FRANCE",FR: BRAVA
+http://viphd4k.club:8080/VitorFaro2/9870/20019
+#EXTINF:-1 tvg-id="" tvg-name="FR: OFIVETV" tvg-logo="" group-title="FRANCE",FR: OFIVETV
+http://viphd4k.club:8080/VitorFaro2/9870/20026
+#EXTINF:-1 tvg-id="" tvg-name="FR: QVC TV" tvg-logo="" group-title="FRANCE",FR: QVC TV
+http://viphd4k.club:8080/VitorFaro2/9870/20008
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOSGES TV" tvg-logo="" group-title="FRANCE",FR: VOSGES TV
+http://viphd4k.club:8080/VitorFaro2/9870/20007
+#EXTINF:-1 tvg-id="" tvg-name="FR: LUXE TV" tvg-logo="" group-title="FRANCE",FR: LUXE TV
+http://viphd4k.club:8080/VitorFaro2/9870/20010
+#EXTINF:-1 tvg-id="" tvg-name="FR: MOUV TV HD" tvg-logo="" group-title="FRANCE",FR: MOUV TV HD
+http://viphd4k.club:8080/VitorFaro2/9870/20021
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEN'S UP" tvg-logo="" group-title="FRANCE",FR: MEN'S UP
+http://viphd4k.club:8080/VitorFaro2/9870/20009
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: TMC +1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bfmsport.png" group-title="FRANCE",FR: TMC +1
+http://viphd4k.club:8080/VitorFaro2/9870/8976
+#EXTINF:-1 tvg-id="" tvg-name="---------- FR: Sport ----------" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",---------- FR: Sport ----------
+http://viphd4k.club:8080/VitorFaro2/9870/4156
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplussport.png" group-title="FRANCE",FR: CANAL + SPORT
+http://viphd4k.club:8080/VitorFaro2/9870/6694
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplussport.png" group-title="FRANCE",FR: CANAL + SPORT HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8965
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplussport.png" group-title="FRANCE",FR: CANAL + SPORT FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11810
+#EXTINF:-1 tvg-id="eleven.fr" tvg-name="FR: ELEVEN SPORT 1 HD*" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 1 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/27360
+#EXTINF:-1 tvg-id="elevensports.fr" tvg-name="FR: ELEVEN SPORT 2 HD*" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 2 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/27361
+#EXTINF:-1 tvg-id="elevensports.fr" tvg-name="FR: ELEVEN SPORT 3 HD*" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 3 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/27362
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTO MOTO LA CHAINE HD" tvg-logo="" group-title="FRANCE",FR: AUTO MOTO LA CHAINE HD
+http://viphd4k.club:8080/VitorFaro2/9870/36058
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTO MOTO LA CHAINE FHD" tvg-logo="" group-title="FRANCE",FR: AUTO MOTO LA CHAINE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/36059
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR: EUROSPORT 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport1.png" group-title="FRANCE",FR: EUROSPORT 1
+http://viphd4k.club:8080/VitorFaro2/9870/6711
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR: EUROSPORT 1 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport1hd.png" group-title="FRANCE",FR: EUROSPORT 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11854
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR: EUROSPORT 2*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport2.png" group-title="FRANCE",FR: EUROSPORT 2*
+http://viphd4k.club:8080/VitorFaro2/9870/8949
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR: EUROSPORT 2 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport2hd.png" group-title="FRANCE",FR: EUROSPORT 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11853
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsports1.png" group-title="FRANCE",FR: BEIN SPORTS 1
+http://viphd4k.club:8080/VitorFaro2/9870/6684
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsport1hd.png" group-title="FRANCE",FR: BEIN SPORTS 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8988
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsport1hd.png" group-title="FRANCE",FR: BEIN SPORTS 1 FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11822
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsports2.png" group-title="FRANCE",FR: BEIN SPORTS 2
+http://viphd4k.club:8080/VitorFaro2/9870/6685
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsport2hd.png" group-title="FRANCE",FR: BEIN SPORTS 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8987
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsport2hd.png" group-title="FRANCE",FR: BEIN SPORTS 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11821
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsports3.png" group-title="FRANCE",FR: BEIN SPORTS 3
+http://viphd4k.club:8080/VitorFaro2/9870/6686
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsports3hd.png" group-title="FRANCE",FR: BEIN SPORTS 3 HD
+http://viphd4k.club:8080/VitorFaro2/9870/8986
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsports3hd.png" group-title="FRANCE",FR: BEIN SPORTS 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11820
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax4.png" group-title="FRANCE",FR: BEIN SPORTS MAX 4*
+http://viphd4k.club:8080/VitorFaro2/9870/8984
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN MAX 4 FHD" tvg-logo="" group-title="FRANCE",FR: BEIN MAX 4 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/27356
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX 5*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax5.png" group-title="FRANCE",FR: BEIN SPORTS MAX 5*
+http://viphd4k.club:8080/VitorFaro2/9870/8983
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN MAX 5 FHD" tvg-logo="" group-title="FRANCE",FR: BEIN MAX 5 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/27357
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX 6*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax6.png" group-title="FRANCE",FR: BEIN SPORTS MAX 6*
+http://viphd4k.club:8080/VitorFaro2/9870/8982
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORTS MAX 7*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax7.png" group-title="FRANCE",FR: BEIN SPORTS MAX 7*
+http://viphd4k.club:8080/VitorFaro2/9870/8981
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORTS MAX 8*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax8.png" group-title="FRANCE",FR: BEIN SPORTS MAX 8*
+http://viphd4k.club:8080/VitorFaro2/9870/8980
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORTS MAX 9*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax9.png" group-title="FRANCE",FR: BEIN SPORTS MAX 9*
+http://viphd4k.club:8080/VitorFaro2/9870/8979
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX 10*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinsportsmax10.png" group-title="FRANCE",FR: BEIN SPORTS MAX 10*
+http://viphd4k.club:8080/VitorFaro2/9870/8985
+#EXTINF:-1 tvg-id="sfrsport1.fr" tvg-name="FR: RMC Sport 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport1.png" group-title="FRANCE",FR: RMC Sport 1
+http://viphd4k.club:8080/VitorFaro2/9870/6738
+#EXTINF:-1 tvg-id="sfrsport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport1.png" group-title="FRANCE",FR: RMC Sport 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/13196
+#EXTINF:-1 tvg-id="sfrsport1.fr" tvg-name="FR: RMC Sport 1 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport1.png" group-title="FRANCE",FR: RMC Sport 1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13197
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT ACCESS 1" tvg-logo="" group-title="FRANCE",FR: RMC SPORT ACCESS 1
+http://viphd4k.club:8080/VitorFaro2/9870/31862
+#EXTINF:-1 tvg-id="sfrsport2.fr" tvg-name="FR: RMC Sport 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport2.png" group-title="FRANCE",FR: RMC Sport 2
+http://viphd4k.club:8080/VitorFaro2/9870/6739
+#EXTINF:-1 tvg-id="sfrsport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport2.png" group-title="FRANCE",FR: RMC Sport 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/13198
+#EXTINF:-1 tvg-id="sfrsport2.fr" tvg-name="FR: RMC Sport 2 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport2.png" group-title="FRANCE",FR: RMC Sport 2 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13199
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT ACCESS 2" tvg-logo="" group-title="FRANCE",FR: RMC SPORT ACCESS 2
+http://viphd4k.club:8080/VitorFaro2/9870/31863
+#EXTINF:-1 tvg-id="sfrsport3.fr" tvg-name="FR: RMC Sport 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport3.png" group-title="FRANCE",FR: RMC Sport 3
+http://viphd4k.club:8080/VitorFaro2/9870/6740
+#EXTINF:-1 tvg-id="sfrsport3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport3.png" group-title="FRANCE",FR: RMC Sport 3 HD
+http://viphd4k.club:8080/VitorFaro2/9870/13200
+#EXTINF:-1 tvg-id="sfrsport3.fr" tvg-name="FR: RMC Sport 3 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport3.png" group-title="FRANCE",FR: RMC Sport 3 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13201
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT ACCESS 3" tvg-logo="" group-title="FRANCE",FR: RMC SPORT ACCESS 3
+http://viphd4k.club:8080/VitorFaro2/9870/31864
+#EXTINF:-1 tvg-id="sfrsport4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 4 HD
+http://viphd4k.club:8080/VitorFaro2/9870/27354
+#EXTINF:-1 tvg-id="sfrsport4.fr" tvg-name="FR: RMC Sport 4 FHD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 4 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/27355
+#EXTINF:-1 tvg-id="sfrsport5.fr" tvg-name="FR: RMC SPORT 5*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport5.png" group-title="FRANCE",FR: RMC SPORT 5*
+http://viphd4k.club:8080/VitorFaro2/9870/8916
+#EXTINF:-1 tvg-id="sfrsport5.fr" tvg-name="FR: RMC Sport 5 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport5.png" group-title="FRANCE",FR: RMC Sport 5 HD
+http://viphd4k.club:8080/VitorFaro2/9870/13202
+#EXTINF:-1 tvg-id="sfrsport5.fr" tvg-name="FR: RMC Sport 5 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sfrsport5.png" group-title="FRANCE",FR: RMC Sport 5 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13203
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 5 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 5 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31865
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 6 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 6 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31866
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 7 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 7 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31867
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 8 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 8 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31868
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 9 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 9 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31869
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 10 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 10 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31870
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 11 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 11 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31871
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 12 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 12 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31872
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 13 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 13 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31873
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 14 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 14 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31874
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 15 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 15 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31875
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 16 HD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 16 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31876
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOO SPORT 1 FHD (belgique)" tvg-logo="" group-title="FRANCE",FR: VOO SPORT 1 FHD (belgique)
+http://viphd4k.club:8080/VitorFaro2/9870/35889
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOO SPORT 2 FHD (belgique)" tvg-logo="" group-title="FRANCE",FR: VOO SPORT 2 FHD (belgique)
+http://viphd4k.club:8080/VitorFaro2/9870/35890
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOO SPORT 3 FHD (belgique)" tvg-logo="" group-title="FRANCE",FR: VOO SPORT 3 FHD (belgique)
+http://viphd4k.club:8080/VitorFaro2/9870/35891
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/goldhd.png" group-title="FRANCE",FR: GOLF HD
+http://viphd4k.club:8080/VitorFaro2/9870/8944
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF CHANNEL FHD" tvg-logo="" group-title="FRANCE",FR: GOLF CHANNEL FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26006
+#EXTINF:-1 tvg-id="abmoteurs.fr" tvg-name="FR: AB MOTEURS*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/abmoteurs.png" group-title="FRANCE",FR: AB MOTEURS*
+http://viphd4k.club:8080/VitorFaro2/9870/8992
+#EXTINF:-1 tvg-id="abmoteurs.fr" tvg-name="FR: AB MOTEURS HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/abmoteurs.png" group-title="FRANCE",FR: AB MOTEURS HD
+http://viphd4k.club:8080/VitorFaro2/9870/8956
+#EXTINF:-1 tvg-id="" tvg-name="FR: FIGHT SPORTS" tvg-logo="" group-title="FRANCE",FR: FIGHT SPORTS
+http://viphd4k.club:8080/VitorFaro2/9870/13195
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="FR: FOOT + 24" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/footplus2424.png" group-title="FRANCE",FR: FOOT + 24
+http://viphd4k.club:8080/VitorFaro2/9870/6712
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR: OL TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/oltvhd.png" group-title="FRANCE",FR: OL TV
+http://viphd4k.club:8080/VitorFaro2/9870/8922
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR: OL TV HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/oltv.png" group-title="FRANCE",FR: OL TV HD
+http://viphd4k.club:8080/VitorFaro2/9870/13186
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR: OL TV FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/oltv.png" group-title="FRANCE",FR: OL TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13185
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="FR: FOOT+ TV FHD" tvg-logo="" group-title="FRANCE",FR: FOOT+ TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25993
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR: CHASSE & PECHE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/chasseandpeche.png" group-title="FRANCE",FR: CHASSE & PECHE
+http://viphd4k.club:8080/VitorFaro2/9870/8964
+#EXTINF:-1 tvg-id="extreme.fr" tvg-name="FR: EXTREME SPORTS FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/extremesports.png" group-title="FRANCE",FR: EXTREME SPORTS FHD
+http://viphd4k.club:8080/VitorFaro2/9870/8947
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR: L'EQUIPE 21*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/lequipe.png" group-title="FRANCE",FR: L'EQUIPE 21*
+http://viphd4k.club:8080/VitorFaro2/9870/6722
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR:  INFOSPORT FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/infosportplus.png" group-title="FRANCE",FR:  INFOSPORT FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/9005
+#EXTINF:-1 tvg-id="" tvg-name="FR: ES1 HD" tvg-logo="" group-title="FRANCE",FR: ES1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/35892
+#EXTINF:-1 tvg-id="" tvg-name="FR: LUCKY JACK TV HD" tvg-logo="" group-title="FRANCE",FR: LUCKY JACK TV HD
+http://viphd4k.club:8080/VitorFaro2/9870/35894
+#EXTINF:-1 tvg-id="" tvg-name="FR: LUCKY JACK TV FHD" tvg-logo="" group-title="FRANCE",FR: LUCKY JACK TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35893
+#EXTINF:-1 tvg-id="" tvg-name="==== CINEMA =====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",==== CINEMA =====
+http://viphd4k.club:8080/VitorFaro2/9870/4221
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL +*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplus.png" group-title="FRANCE",FR: CANAL +*
+http://viphd4k.club:8080/VitorFaro2/9870/6690
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="CANAL + HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplus.png" group-title="FRANCE",CANAL + HD
+http://viphd4k.club:8080/VitorFaro2/9870/11818
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL + FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplus.png" group-title="FRANCE",FR: CANAL + FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11819
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR: CANAL + CINÉMA HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalpluscinema.png" group-title="FRANCE",FR: CANAL + CINÉMA HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6691
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR: CANAL + CINEMA HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalpluscinema.png" group-title="FRANCE",FR: CANAL + CINEMA HD
+http://viphd4k.club:8080/VitorFaro2/9870/11816
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR: CANAL + CINEMA FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalpluscinema.png" group-title="FRANCE",FR: CANAL + CINEMA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11817
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="FR: CANAL + DÉCALÉ HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusdecale.png" group-title="FRANCE",FR: CANAL + DÉCALÉ HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6692
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="FR: CANAL + DECALE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusdecale.png" group-title="FRANCE",FR: CANAL + DECALE HD
+http://viphd4k.club:8080/VitorFaro2/9870/11814
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="FR: CANAL + DECALE FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusdecale.png" group-title="FRANCE",FR: CANAL + DECALE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11815
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="FR: CANAL + FAMILY HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusfamilyhd.png" group-title="FRANCE",FR: CANAL + FAMILY HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6693
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="FR: CANAL + FAMILY HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusfamily.png" group-title="FRANCE",FR: CANAL + FAMILY HD
+http://viphd4k.club:8080/VitorFaro2/9870/11812
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="FR: CANAL + FAMILY FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusfamily.png" group-title="FRANCE",FR: CANAL + FAMILY FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11813
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR: CINÉ + PREMIER" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinepluspremier.png" group-title="FRANCE",FR: CINÉ + PREMIER
+http://viphd4k.club:8080/VitorFaro2/9870/6770
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR: CINE PREMIER HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinestarpremiere.png" group-title="FRANCE",FR: CINE PREMIER HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8960
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR: CINE+ PREMIER FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinepluspremier.png" group-title="FRANCE",FR: CINE+ PREMIER FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11845
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusclub.png" group-title="FRANCE",FR: CINE+ CLUB FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11839
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR: CINÉ + EMOTION HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusemotion.png" group-title="FRANCE",FR: CINÉ + EMOTION HD
+http://viphd4k.club:8080/VitorFaro2/9870/6699
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="FR: CINE+ EMOTION FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusemotion.png" group-title="FRANCE",FR: CINE+ EMOTION FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11848
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="FR: CINE+ FAMIZ FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusfamiz.png" group-title="FRANCE",FR: CINE+ FAMIZ FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11847
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ FRISSON FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusfrisson.png" group-title="FRANCE",FR: CINE+ FRISSON FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11846
+#EXTINF:-1 tvg-id="polar.fr" tvg-name="FR: POLAR+" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/polarplus.png" group-title="FRANCE",FR: POLAR+
+http://viphd4k.club:8080/VitorFaro2/9870/8952
+#EXTINF:-1 tvg-id="Cine Polar FR" tvg-name="FR: CINE+ POLAR FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinepolar.png" group-title="FRANCE",FR: CINE+ POLAR FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11837
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR: CANAL + SERIE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusseries.png" group-title="FRANCE",FR: CANAL + SERIE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8969
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR: CANAL + SERIES FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusseries.png" group-title="FRANCE",FR: CANAL + SERIES FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11811
+#EXTINF:-1 tvg-id="cinefx.fr" tvg-name="FR: CINÉ FX*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinefxhd.png" group-title="FRANCE",FR: CINÉ FX*
+http://viphd4k.club:8080/VitorFaro2/9870/6701
+#EXTINF:-1 tvg-id="Cine FX FR" tvg-name="FR: CINE FX FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinefx.png" group-title="FRANCE",FR: CINE FX FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11836
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINÉ + CLASSIC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusclassic.png" group-title="FRANCE",FR: CINÉ + CLASSIC HD
+http://viphd4k.club:8080/VitorFaro2/9870/6698
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINE CLASSIC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusclassic.png" group-title="FRANCE",FR: CINE CLASSIC HD
+http://viphd4k.club:8080/VitorFaro2/9870/8963
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINE+ CLASSIC FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusclassic.png" group-title="FRANCE",FR: CINE+ CLASSIC FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11838
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINÉ + FRISSON HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusfrisson.png" group-title="FRANCE",FR: CINÉ + FRISSON HD
+http://viphd4k.club:8080/VitorFaro2/9870/6700
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR: CRIME DISTRICT*" tvg-logo="" group-title="FRANCE",FR: CRIME DISTRICT*
+http://viphd4k.club:8080/VitorFaro2/9870/30899
+#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District FHD" tvg-logo="" group-title="FRANCE",FR: Crime District FHD
+http://viphd4k.club:8080/VitorFaro2/9870/16893
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR: CINE EMOTION HD*" tvg-logo="" group-title="FRANCE",FR: CINE EMOTION HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8962
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="FR: CINE FAMIZ HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusfamiz.png" group-title="FRANCE",FR: CINE FAMIZ HD
+http://viphd4k.club:8080/VitorFaro2/9870/8961
+#EXTINF:-1 tvg-id="cineplusstarafrique.fr" tvg-name="FR: CINE POLAR HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinepolar.png" group-title="FRANCE",FR: CINE POLAR HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8959
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR: TCM CINEMA FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tcmcinemahd.png" group-title="FRANCE",FR: TCM CINEMA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/8933
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="FR: OCS CHOC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocschoc.png" group-title="FRANCE",FR: OCS CHOC
+http://viphd4k.club:8080/VitorFaro2/9870/8925
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="FR: OCS CITY HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocscity.png" group-title="FRANCE",FR: OCS CITY HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8924
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="FR: OCS GEANTS HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocsgeant.png" group-title="FRANCE",FR: OCS GEANTS HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8923
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIE CLUB HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/serieclub.png" group-title="FRANCE",FR: SERIE CLUB HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8917
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR: TMC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tmchd.png" group-title="FRANCE",FR: TMC HD
+http://viphd4k.club:8080/VitorFaro2/9870/8915
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR: TMC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tmchd.png" group-title="FRANCE",FR: TMC
+http://viphd4k.club:8080/VitorFaro2/9870/8912
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR: TREK HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/trek.png" group-title="FRANCE",FR: TREK HD
+http://viphd4k.club:8080/VitorFaro2/9870/8909
+#EXTINF:-1 tvg-id="cinefx.fr" tvg-name="FR: CINE FX HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cinefx.png" group-title="FRANCE",FR: CINE FX HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8958
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE CLUB HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cineplusclub.png" group-title="FRANCE",FR: CINE CLUB HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8957
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR: SYFY HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/syfyhd.png" group-title="FRANCE",FR: SYFY HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6741
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY HD" tvg-logo="" group-title="FRANCE",FR: RMC STORY HD
+http://viphd4k.club:8080/VitorFaro2/9870/22166
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR: CSTAR HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cstar.png" group-title="FRANCE",FR: CSTAR HD
+http://viphd4k.club:8080/VitorFaro2/9870/6704
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="FR: OCS CHOC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocschoc.png" group-title="FRANCE",FR: OCS CHOC HD
+http://viphd4k.club:8080/VitorFaro2/9870/6730
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="FR: OCS City FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocscity.png" group-title="FRANCE",FR: OCS City FHD
+http://viphd4k.club:8080/VitorFaro2/9870/6731
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="FR: OCS MAX HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ocsmaxhd.png" group-title="FRANCE",FR: OCS MAX HD
+http://viphd4k.club:8080/VitorFaro2/9870/6732
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIE CLUB*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/serieclub.png" group-title="FRANCE",FR: SERIE CLUB*
+http://viphd4k.club:8080/VitorFaro2/9870/6737
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="FR: COMÉDIE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/comedyplus1.png" group-title="FRANCE",FR: COMÉDIE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6703
+#EXTINF:-1 tvg-id="" tvg-name="===== DECOUVERTE =====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",===== DECOUVERTE =====
+http://viphd4k.club:8080/VitorFaro2/9870/4197
+#EXTINF:-1 tvg-id="" tvg-name="FR: ULTRA NATURE UHD" tvg-logo="" group-title="FRANCE",FR: ULTRA NATURE UHD
+http://viphd4k.club:8080/VitorFaro2/9870/26009
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE TV FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mycuisine.png" group-title="FRANCE",FR: MY CUISINE TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13188
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/novelastv.png" group-title="FRANCE",FR: NOVELAS FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13182
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="FR: MELODY TV FHD" tvg-logo="" group-title="FRANCE",FR: MELODY TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26003
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/viceland.png" group-title="FRANCE",FR: VICELAND FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13190
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/warnertv.png" group-title="FRANCE",FR: WARNER TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13189
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY FAMILY FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoveryfamily.png" group-title="FRANCE",FR: DISCOVERY FAMILY FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13187
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR:  DISCOVERY HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusdiscoveryhd.png" group-title="FRANCE",FR:  DISCOVERY HD
+http://viphd4k.club:8080/VitorFaro2/9870/8955
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR: DISCOVERY FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discovery.png" group-title="FRANCE",FR: DISCOVERY FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11852
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR: DISCOVERY INVESTIGATION FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discovery.png" group-title="FRANCE",FR: DISCOVERY INVESTIGATION FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11851
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR:  DISCOVERY SCIENCE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoveryscience.png" group-title="FRANCE",FR:  DISCOVERY SCIENCE*
+http://viphd4k.club:8080/VitorFaro2/9870/6706
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR: DISCOVERY SCIENCE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoverysci.png" group-title="FRANCE",FR: DISCOVERY SCIENCE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9012
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR: ANIMAUX HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/animaux.png" group-title="FRANCE",FR: ANIMAUX HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6682
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR:  ANIMAUX*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/animaux.png" group-title="FRANCE",FR:  ANIMAUX*
+http://viphd4k.club:8080/VitorFaro2/9870/9015
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR: ANIMAUX FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/animaux.png" group-title="FRANCE",FR: ANIMAUX FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11841
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="FR: COMEDIE + FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/comedieplus.png" group-title="FRANCE",FR: COMEDIE + FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/9013
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR: NAT GEO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeo.png" group-title="FRANCE",FR: NAT GEO
+http://viphd4k.club:8080/VitorFaro2/9870/6727
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR:  NAT GEO HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeohd.png" group-title="FRANCE",FR:  NAT GEO HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9002
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR: NATGEO FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeo.png" group-title="FRANCE",FR: NATGEO FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11832
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO WILD HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeowildhdpl.png" group-title="FRANCE",FR: NAT GEO WILD HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9001
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NATGEO WILD FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeowildhd.png" group-title="FRANCE",FR: NATGEO WILD FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11850
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR:  PLANETE +" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planeteplus.png" group-title="FRANCE",FR:  PLANETE +
+http://viphd4k.club:8080/VitorFaro2/9870/8999
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR: PLANETE + FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planeteplus.png" group-title="FRANCE",FR: PLANETE + FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11823
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR:  PLANETE + CI" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planetepluscihd.png" group-title="FRANCE",FR:  PLANETE + CI
+http://viphd4k.club:8080/VitorFaro2/9870/8998
+#EXTINF:-1 tvg-id="planetejustice.fr" tvg-name="FR: PLANETE CI HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planetepluscihd.png" group-title="FRANCE",FR: PLANETE CI HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6733
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: PLANETE+ CI FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planeteplusci.png" group-title="FRANCE",FR: PLANETE+ CI FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11828
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET ETOILE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bet.png" group-title="FRANCE",FR: BET ETOILE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8941
+#EXTINF:-1 tvg-id="planeteaction.fr" tvg-name="FR: PLANET AE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/planeteplusaande.png" group-title="FRANCE",FR: PLANET AE*
+http://viphd4k.club:8080/VitorFaro2/9870/8919
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR: PLANETE+ A&E FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/aande.png" group-title="FRANCE",FR: PLANETE+ A&E FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11829
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR: USHUAIA TV HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ushuaiatvhd.png" group-title="FRANCE",FR: USHUAIA TV HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8908
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR: USHUAIA TV FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ushuaiatv.png" group-title="FRANCE",FR: USHUAIA TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11824
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR: SEASONS HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/seasons.png" group-title="FRANCE",FR: SEASONS HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8918
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR: SCIENCES & VIE FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/scienceetvie.png" group-title="FRANCE",FR: SCIENCES & VIE FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/11827
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="FR: VOYAGE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/voyagehd.png" group-title="FRANCE",FR: VOYAGE*
+http://viphd4k.club:8080/VitorFaro2/9870/6746
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="FR: VOYAGE FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/voyagehd.png" group-title="FRANCE",FR: VOYAGE FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11849
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/arte.png" group-title="FRANCE",FR: ARTE*
+http://viphd4k.club:8080/VitorFaro2/9870/6683
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR: TOUTE L'HISTOIRE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/toutelhistoire.png" group-title="FRANCE",FR: TOUTE L'HISTOIRE*
+http://viphd4k.club:8080/VitorFaro2/9870/6744
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR: TV5 MONDE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tv5monde.png" group-title="FRANCE",FR: TV5 MONDE HD
+http://viphd4k.club:8080/VitorFaro2/9870/6745
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="FR: EQUIDIA LIVE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/equidialivehd.png" group-title="FRANCE",FR: EQUIDIA LIVE
+http://viphd4k.club:8080/VitorFaro2/9870/8950
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="FR: EQUIDIA LIVE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/equidialivehd.png" group-title="FRANCE",FR: EQUIDIA LIVE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8951
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="FR: PARAMOUNT CHANNEL*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/paramountchannel.png" group-title="FRANCE",FR: PARAMOUNT CHANNEL*
+http://viphd4k.club:8080/VitorFaro2/9870/6760
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR: SCIENCE ET VIE TV*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/scienceetvie.png" group-title="FRANCE",FR: SCIENCE ET VIE TV*
+http://viphd4k.club:8080/VitorFaro2/9870/6763
+#EXTINF:-1 tvg-id="" tvg-name="FR: BBLACK AFRICA" tvg-logo="" group-title="FRANCE",FR: BBLACK AFRICA
+http://viphd4k.club:8080/VitorFaro2/9870/20024
+#EXTINF:-1 tvg-id="" tvg-name="FR: BBLACK CLASSIC" tvg-logo="" group-title="FRANCE",FR: BBLACK CLASSIC
+http://viphd4k.club:8080/VitorFaro2/9870/20023
+#EXTINF:-1 tvg-id="" tvg-name="FR: CURIOUS TV" tvg-logo="" group-title="FRANCE",FR: CURIOUS TV
+http://viphd4k.club:8080/VitorFaro2/9870/20025
+#EXTINF:-1 tvg-id="fashiontv.fr" tvg-name="FR: FASHION FHD" tvg-logo="" group-title="FRANCE",FR: FASHION FHD
+http://viphd4k.club:8080/VitorFaro2/9870/20018
+#EXTINF:-1 tvg-id="" tvg-name="FR: GENERATIONS TV FHD" tvg-logo="" group-title="FRANCE",FR: GENERATIONS TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/20016
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP ASSEMBLEE NATIONALE" tvg-logo="" group-title="FRANCE",FR: LCP ASSEMBLEE NATIONALE
+http://viphd4k.club:8080/VitorFaro2/9870/20013
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="" group-title="FRANCE",FR: RMC DECOUVERTE HD
+http://viphd4k.club:8080/VitorFaro2/9870/20005
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV FullHD" tvg-logo="" group-title="FRANCE",FR: WARNER TV FullHD
+http://viphd4k.club:8080/VitorFaro2/9870/20022
+#EXTINF:-1 tvg-id="" tvg-name="=====ENFANTS=====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",=====ENFANTS=====
+http://viphd4k.club:8080/VitorFaro2/9870/4171
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="FR: TOONAMI FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/toonami.png" group-title="FRANCE",FR: TOONAMI FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13181
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneychannel.png" group-title="FRANCE",FR: DISNEY CHANNEL*
+http://viphd4k.club:8080/VitorFaro2/9870/8954
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneych.png" group-title="FRANCE",FR: DISNEY CHANNEL FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11835
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneychannel.png" group-title="FRANCE",FR: DISNEY CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/6707
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoverychannelhd.png" group-title="FRANCE",FR: DISNEY CHANNEL HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9011
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="FR: DISNEY CINEMA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneycinema.png" group-title="FRANCE",FR: DISNEY CINEMA
+http://viphd4k.club:8080/VitorFaro2/9870/6708
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneycinema.png" group-title="FRANCE",FR: DISNEY CINEMA HD
+http://viphd4k.club:8080/VitorFaro2/9870/8953
+#EXTINF:-1 tvg-id="Disney Channel Plus1 FR" tvg-name="FR: DISNEY +1 FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneych.png" group-title="FRANCE",FR: DISNEY +1 FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11834
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="FR: DISNEY JUNIOR*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyjunior.png" group-title="FRANCE",FR: DISNEY JUNIOR*
+http://viphd4k.club:8080/VitorFaro2/9870/6709
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="FR: DISNEY JUNIOR HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyjuniorhd.png" group-title="FRANCE",FR: DISNEY JUNIOR HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9010
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="FR: DISNEY JUNIOR FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyjr.png" group-title="FRANCE",FR: DISNEY JUNIOR FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11843
+#EXTINF:-1 tvg-id="disneyxd.fr" tvg-name="FR: DISNEY XD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyxd.png" group-title="FRANCE",FR: DISNEY XD*
+http://viphd4k.club:8080/VitorFaro2/9870/6710
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR: GULLI*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/gulli.png" group-title="FRANCE",FR: GULLI*
+http://viphd4k.club:8080/VitorFaro2/9870/8942
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR: GULLI HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/gullihd.png" group-title="FRANCE",FR: GULLI HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6718
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="FR: NICKELODEON*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickelodeon.png" group-title="FRANCE",FR: NICKELODEON*
+http://viphd4k.club:8080/VitorFaro2/9870/8930
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="FR: NICKELODEON FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickelodeon.png" group-title="FRANCE",FR: NICKELODEON FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11831
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="FR: NICKELODEON JR*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickjr.png" group-title="FRANCE",FR: NICKELODEON JR*
+http://viphd4k.club:8080/VitorFaro2/9870/8929
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="FR: NICKELODEON JUNIOR FHD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON JUNIOR FHD
+http://viphd4k.club:8080/VitorFaro2/9870/27359
+#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="FR: NICKLODEON 4TEEN HD*" tvg-logo=".http://logosptgoldtv.ddns.net/logosmundo/nickelodeon4teenhd.png" group-title="FRANCE",FR: NICKLODEON 4TEEN HD*
+http://viphd4k.club:8080/VitorFaro2/9870/6728
+#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="FR: NICKELODEON4-TEEN FHD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON4-TEEN FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26008
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON  +1 HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON  +1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/27363
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON+1 FHD*" tvg-logo="" group-title="FRANCE",FR: NICKELODEON+1 FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/27364
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="FR: PIWI" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/piwiplus.png" group-title="FRANCE",FR: PIWI
+http://viphd4k.club:8080/VitorFaro2/9870/6762
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="FR: PIWI HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/piwiplus.png" group-title="FRANCE",FR: PIWI HD
+http://viphd4k.club:8080/VitorFaro2/9870/8920
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="FR: PIWI+ FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/piwiplus.png" group-title="FRANCE",FR: PIWI+ FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11830
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="FR: TELETOON" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/teletoonplus.png" group-title="FRANCE",FR: TELETOON
+http://viphd4k.club:8080/VitorFaro2/9870/6764
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="FR: TELETOON HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/teletoonplus.png" group-title="FRANCE",FR: TELETOON HD
+http://viphd4k.club:8080/VitorFaro2/9870/8914
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="FR: CANAL J*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canaljhd.png" group-title="FRANCE",FR: CANAL J*
+http://viphd4k.club:8080/VitorFaro2/9870/8968
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="FR: CANAL-J FHD" tvg-logo="" group-title="FRANCE",FR: CANAL-J FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26007
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="FR: J-ONE FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/jonehd.png" group-title="FRANCE",FR: J-ONE FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/8939
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR: GAME ONE HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/gameone.png" group-title="FRANCE",FR: GAME ONE HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8938
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR: TIJI*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tiji.png" group-title="FRANCE",FR: TIJI*
+http://viphd4k.club:8080/VitorFaro2/9870/6765
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR: TIJI HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tijihd.png" group-title="FRANCE",FR: TIJI HD
+http://viphd4k.club:8080/VitorFaro2/9870/8913
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR: TIJI FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tijihd.png" group-title="FRANCE",FR: TIJI FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11842
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="FR: CARTOON NETWORK*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cartoon.png" group-title="FRANCE",FR: CARTOON NETWORK*
+http://viphd4k.club:8080/VitorFaro2/9870/6696
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cartoonnethd.png" group-title="FRANCE",FR: CARTOON NETWORK HD
+http://viphd4k.club:8080/VitorFaro2/9870/9014
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="FR: CARTOON NETWORK FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cartoonnetwork.png" group-title="FRANCE",FR: CARTOON NETWORK FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11844
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="FR:  MANGAS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/manga.png" group-title="FRANCE",FR:  MANGAS
+http://viphd4k.club:8080/VitorFaro2/9870/9003
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="FR: MANGAS HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mangas.png" group-title="FRANCE",FR: MANGAS HD
+http://viphd4k.club:8080/VitorFaro2/9870/6759
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="FR: MANGAS FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mangas.png" group-title="FRANCE",FR: MANGAS FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11833
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR: BOING HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boing.png" group-title="FRANCE",FR: BOING HD
+http://viphd4k.club:8080/VitorFaro2/9870/6688
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING FHD" tvg-logo="" group-title="FRANCE",FR: BOING FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35903
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR: BOOMERANG*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boomerang.png" group-title="FRANCE",FR: BOOMERANG*
+http://viphd4k.club:8080/VitorFaro2/9870/8975
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR: BOOMERANG HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boomeranghd.png" group-title="FRANCE",FR: BOOMERANG HD
+http://viphd4k.club:8080/VitorFaro2/9870/6689
+#EXTINF:-1 tvg-id="bloomberg.fr" tvg-name="FR: BOOMERANG FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boomerang.png" group-title="FRANCE",FR: BOOMERANG FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11840
+#EXTINF:-1 tvg-id="" tvg-name="FR: ZOUZOUS" tvg-logo="" group-title="FRANCE",FR: ZOUZOUS
+http://viphd4k.club:8080/VitorFaro2/9870/6767
+#EXTINF:-1 tvg-id="" tvg-name="FR: PITCHOUN HD" tvg-logo="" group-title="FRANCE",FR: PITCHOUN HD
+http://viphd4k.club:8080/VitorFaro2/9870/20006
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIVE PEPPA  PIG" tvg-logo="" group-title="FRANCE",FR: LIVE PEPPA  PIG
+http://viphd4k.club:8080/VitorFaro2/9870/20012
+#EXTINF:-1 tvg-id="" tvg-name="===== INFOS=====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",===== INFOS=====
+http://viphd4k.club:8080/VitorFaro2/9870/4177
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: BFM TV*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bfm.png" group-title="FRANCE",FR: BFM TV*
+http://viphd4k.club:8080/VitorFaro2/9870/6687
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR:  INFOSPORT HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/infosportplus.png" group-title="FRANCE",FR:  INFOSPORT HD
+http://viphd4k.club:8080/VitorFaro2/9870/6720
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: BFM BUSINESS HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bfmbusiness.png" group-title="FRANCE",FR: BFM BUSINESS HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8978
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: BFM PARIS FHD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bfm.png" group-title="FRANCE",FR: BFM PARIS FHD*
+http://viphd4k.club:8080/VitorFaro2/9870/8977
+#EXTINF:-1 tvg-id="alsace20.fr" tvg-name="FR: ALSACE 20*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/f3alsace.png" group-title="FRANCE",FR: ALSACE 20*
+http://viphd4k.club:8080/VitorFaro2/9870/8972
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FR: FRANCE INFO*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/franceinfo.png" group-title="FRANCE",FR: FRANCE INFO*
+http://viphd4k.club:8080/VitorFaro2/9870/8946
+#EXTINF:-1 tvg-id="I24news FR" tvg-name="FR: I24 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/i24francis.png" group-title="FRANCE",FR: I24 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8940
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FR: FRANCE 24 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/france24.png" group-title="FRANCE",FR: FRANCE 24 HD
+http://viphd4k.club:8080/VitorFaro2/9870/6714
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'TÉLÉ*" tvg-logo="" group-title="FRANCE",FR: L'TÉLÉ*
+http://viphd4k.club:8080/VitorFaro2/9870/6721
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="FR: LCI" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/lci.png" group-title="FRANCE",FR: LCI
+http://viphd4k.club:8080/VitorFaro2/9870/6723
+#EXTINF:-1 tvg-id="" tvg-name="=====MUSIK=====" tvg-logo="http://ptgoldtv.ddns.net/paises/fr.png" group-title="FRANCE",=====MUSIK=====
+http://viphd4k.club:8080/VitorFaro2/9870/4128
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM  FHD" tvg-logo="" group-title="FRANCE",FR: MCM  FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35901
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM POP" tvg-logo="" group-title="FRANCE",FR: MCM POP
+http://viphd4k.club:8080/VitorFaro2/9870/35900
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP FHD" tvg-logo="" group-title="FRANCE",FR: MCM TOP FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35902
+#EXTINF:-1 tvg-id="" tvg-name="FR: OKLM FHD" tvg-logo="" group-title="FRANCE",FR: OKLM FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35897
+#EXTINF:-1 tvg-id="" tvg-name="FR: FUN DANCE" tvg-logo="" group-title="FRANCE",FR: FUN DANCE
+http://viphd4k.club:8080/VitorFaro2/9870/35896
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV FHD" tvg-logo="" group-title="FRANCE",FR: RFM TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/35899
+#EXTINF:-1 tvg-id="" tvg-name="FR: RETRO TV" tvg-logo="" group-title="FRANCE",FR: RETRO TV
+http://viphd4k.club:8080/VitorFaro2/9870/35895
+#EXTINF:-1 tvg-id="" tvg-name="FR: DJAZZ TV FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/djazztv.png" group-title="FRANCE",FR: DJAZZ TV FHD
+http://viphd4k.club:8080/VitorFaro2/9870/13192
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV BASE*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mtvbase.png" group-title="FRANCE",FR: MTV BASE*
+http://viphd4k.club:8080/VitorFaro2/9870/6725
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mtv.png" group-title="FRANCE",FR: MTV HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8931
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV MUSIC*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mtvmusic.png" group-title="FRANCE",FR: MTV MUSIC*
+http://viphd4k.club:8080/VitorFaro2/9870/6726
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="FR: NRJ HITS*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nrjhits.png" group-title="FRANCE",FR: NRJ HITS*
+http://viphd4k.club:8080/VitorFaro2/9870/8928
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="FR: NRJ 12" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nrj12.png" group-title="FRANCE",FR: NRJ 12
+http://viphd4k.club:8080/VitorFaro2/9870/6729
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="FR:  NRJ 12 HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nrj12hd.png" group-title="FRANCE",FR:  NRJ 12 HD*
+http://viphd4k.club:8080/VitorFaro2/9870/9000
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="FR: NRJ 12  FHD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nrj12.png" group-title="FRANCE",FR: NRJ 12  FHD
+http://viphd4k.club:8080/VitorFaro2/9870/11826
+#EXTINF:-1 tvg-id="" tvg-name="FR: HIT TV MUSIC HD" tvg-logo="" group-title="FRANCE",FR: HIT TV MUSIC HD
+http://viphd4k.club:8080/VitorFaro2/9870/20015
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="FR: M6 MUSIC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/m6.png" group-title="FRANCE",FR: M6 MUSIC HD
+http://viphd4k.club:8080/VitorFaro2/9870/8934
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="FR: MEZZO HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mezzohd.png" group-title="FRANCE",FR: MEZZO HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8932
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR: TVBREIZH HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvbreizh.png" group-title="FRANCE",FR: TVBREIZH HD
+http://viphd4k.club:8080/VitorFaro2/9870/8927
+#EXTINF:-1 tvg-id="numero23.fr" tvg-name="FR: NUMERO 23*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/numero23hd.png" group-title="FRANCE",FR: NUMERO 23*
+http://viphd4k.club:8080/VitorFaro2/9870/8926
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN HD*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/traceurban.png" group-title="FRANCE",FR: TRACE URBAN HD*
+http://viphd4k.club:8080/VitorFaro2/9870/8910
+#EXTINF:-1 tvg-id="" tvg-name="FR: VIRGIN TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/virgintv.png" group-title="FRANCE",FR: VIRGIN TV
+http://viphd4k.club:8080/VitorFaro2/9870/6766
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="FR: ELLE GIRL HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/ellegirl.png" group-title="FRANCE",FR: ELLE GIRL HD
+http://viphd4k.club:8080/VitorFaro2/9870/8907
+#EXTINF:-1 tvg-id="abmoteurs.fr" tvg-name="FR:  AB MOTEUR  FHD" tvg-logo="" group-title="FRANCE",FR:  AB MOTEUR  FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26004
+#EXTINF:-1 tvg-id="" tvg-name="FR: BRAVA FHD" tvg-logo="" group-title="FRANCE",FR: BRAVA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26010
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE GOSPEL FHD" tvg-logo="" group-title="FRANCE",FR: TRACE GOSPEL FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26000
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE MZIKI FHD" tvg-logo="" group-title="FRANCE",FR: TRACE MZIKI FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25999
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE NAIJA FHD" tvg-logo="" group-title="FRANCE",FR: TRACE NAIJA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25998
+#EXTINF:-1 tvg-id="" tvg-name="FR: ONZEO  FHD" tvg-logo="" group-title="FRANCE",FR: ONZEO  FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25995
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TOCA FHD" tvg-logo="" group-title="FRANCE",FR: TRACE TOCA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25997
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL FHD" tvg-logo="" group-title="FRANCE",FR: TRACE TROPICAL FHD
+http://viphd4k.club:8080/VitorFaro2/9870/25996
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE-AFRICA FHD" tvg-logo="" group-title="FRANCE",FR: TRACE-AFRICA FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26001
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE-URBAN FHD" tvg-logo="" group-title="FRANCE",FR: TRACE-URBAN FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26002
+#EXTINF:-1 tvg-id="" tvg-name="FR: PORTAIL CANALPLAY FHD" tvg-logo="" group-title="FRANCE",FR: PORTAIL CANALPLAY FHD
+http://viphd4k.club:8080/VitorFaro2/9870/26005
+#EXTINF:-1 tvg-id="" tvg-name="FR: A.LA.CARTE.6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalsatalacarte.png" group-title="FRANCE",FR: A.LA.CARTE.6
+http://viphd4k.club:8080/VitorFaro2/9870/8993
+#EXTINF:-1 tvg-id="" tvg-name="******** ESPANHA ********" tvg-logo="" group-title="ESPANHA",******** ESPANHA ********
+http://viphd4k.club:8080/VitorFaro2/9870/11878
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="ES: LA 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/la1.png" group-title="ESPANHA",ES: LA 1
+http://viphd4k.club:8080/VitorFaro2/9870/31238
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="ES: LA 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/la1.png" group-title="ESPANHA",ES: LA 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31237
+#EXTINF:-1 tvg-id="LA 2 ES" tvg-name="ES: LA 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/la2.png" group-title="ESPANHA",ES: LA 2
+http://viphd4k.club:8080/VitorFaro2/9870/31236
+#EXTINF:-1 tvg-id="LA 2 ES" tvg-name="ES: LA 2 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/la2.png" group-title="ESPANHA",ES: LA 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31235
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ES: ANTENA 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/antena3.png" group-title="ESPANHA",ES: ANTENA 3
+http://viphd4k.club:8080/VitorFaro2/9870/31234
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/antena3.png" group-title="ESPANHA",ES: ANTENA 3 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31233
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="ES: CUATRO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cuatro.png" group-title="ESPANHA",ES: CUATRO
+http://viphd4k.club:8080/VitorFaro2/9870/31232
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="ES: CUATRO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cuatrohd.png" group-title="ESPANHA",ES: CUATRO HD
+http://viphd4k.club:8080/VitorFaro2/9870/31231
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELECINCO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/telecinco.png" group-title="ESPANHA",ES: TELECINCO
+http://viphd4k.club:8080/VitorFaro2/9870/31230
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="ES: TELECINCO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/telecinco.png" group-title="ESPANHA",ES: TELECINCO HD
+http://viphd4k.club:8080/VitorFaro2/9870/31229
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="ES: LA SEXTA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/lasexta.png" group-title="ESPANHA",ES: LA SEXTA
+http://viphd4k.club:8080/VitorFaro2/9870/31228
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="ES: LA SEXTA HD" tvg-logo="logosptgoldtv.ddns.net/logosmundo/lasextahd.png" group-title="ESPANHA",ES: LA SEXTA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31227
+#EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="ES: CANALSUR" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalsura.png" group-title="ESPANHA",ES: CANALSUR
+http://viphd4k.club:8080/VitorFaro2/9870/31225
+#EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="ES: CANALSUR HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalsura.png" group-title="ESPANHA",ES: CANALSUR HD
+http://viphd4k.club:8080/VitorFaro2/9870/31226
+#EXTINF:-1 tvg-id="Canal Sur 2" tvg-name="ES: CANALSUR 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalsura.png" group-title="ESPANHA",ES: CANALSUR 2
+http://viphd4k.club:8080/VitorFaro2/9870/31224
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalsurandalucia.png" group-title="ESPANHA",ES: CANAL SUR ANDALUCIA
+http://viphd4k.club:8080/VitorFaro2/9870/31220
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ORBE21" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalorbe21.png" group-title="ESPANHA",ES: CANAL ORBE21
+http://viphd4k.club:8080/VitorFaro2/9870/31221
+#EXTINF:-1 tvg-id="Decasa" tvg-name="ES: CANAL DECASA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canaldecasa.png" group-title="ESPANHA",ES: CANAL DECASA
+http://viphd4k.club:8080/VitorFaro2/9870/31061
+#EXTINF:-1 tvg-id="Neox" tvg-name="ES: NEOX" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/neox.png" group-title="ESPANHA",ES: NEOX
+http://viphd4k.club:8080/VitorFaro2/9870/31216
+#EXTINF:-1 tvg-id="Nova" tvg-name="ES: NOVA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nova.png" group-title="ESPANHA",ES: NOVA
+http://viphd4k.club:8080/VitorFaro2/9870/31215
+#EXTINF:-1 tvg-id="Nova" tvg-name="ES: NOVA*" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nova.png" group-title="ESPANHA",ES: NOVA*
+http://viphd4k.club:8080/VitorFaro2/9870/37584
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA 7" tvg-logo="" group-title="ESPANHA",ES: NOVA 7
+http://viphd4k.club:8080/VitorFaro2/9870/37585
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELENOVELAS" tvg-logo="" group-title="ESPANHA",ES: TELENOVELAS
+http://viphd4k.club:8080/VitorFaro2/9870/31223
+#EXTINF:-1 tvg-id="FDF Telecinco" tvg-name="ES: FDF" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/fdf.png" group-title="ESPANHA",ES: FDF
+http://viphd4k.club:8080/VitorFaro2/9870/31217
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="ES: CLAN TVE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/clantve.png" group-title="ESPANHA",ES: CLAN TVE HD
+http://viphd4k.club:8080/VitorFaro2/9870/31203
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASICO TV" tvg-logo="" group-title="ESPANHA",ES: CLASICO TV
+http://viphd4k.club:8080/VitorFaro2/9870/31207
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ES: DIVINITY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/divinity.png" group-title="ESPANHA",ES: DIVINITY
+http://viphd4k.club:8080/VitorFaro2/9870/31218
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ES: ETB" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/etb1.png" group-title="ESPANHA",ES: ETB
+http://viphd4k.club:8080/VitorFaro2/9870/31222
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BEMAD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bemad.png" group-title="ESPANHA",ES: BEMAD
+http://viphd4k.club:8080/VitorFaro2/9870/31214
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE ASTURIAS" tvg-logo="" group-title="ESPANHA",ES: TELE ASTURIAS
+http://viphd4k.club:8080/VitorFaro2/9870/31191
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BEMAD HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bemad.png" group-title="ESPANHA",ES: BEMAD HD
+http://viphd4k.club:8080/VitorFaro2/9870/31213
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/dmax.png" group-title="ESPANHA",ES: DMAX
+http://viphd4k.club:8080/VitorFaro2/9870/31211
+#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN" tvg-logo="" group-title="ESPANHA",ES: TEN
+http://viphd4k.club:8080/VitorFaro2/9870/31212
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="" group-title="ESPANHA",ES: DKISS
+http://viphd4k.club:8080/VitorFaro2/9870/31210
+#EXTINF:-1 tvg-id="Energy" tvg-name="ES: ENERGY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/energy.png" group-title="ESPANHA",ES: ENERGY
+http://viphd4k.club:8080/VitorFaro2/9870/31209
+#EXTINF:-1 tvg-id="" tvg-name="ES BETIS TV" tvg-logo="" group-title="ESPANHA",ES BETIS TV
+http://viphd4k.club:8080/VitorFaro2/9870/31189
+#EXTINF:-1 tvg-id="Aragón Televisión" tvg-name="ES: ARAGON TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/aragontv.png" group-title="ESPANHA",ES: ARAGON TV
+http://viphd4k.club:8080/VitorFaro2/9870/31206
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/bom.png" group-title="ESPANHA",ES: BOM
+http://viphd4k.club:8080/VitorFaro2/9870/31198
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVCE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/rtv.png" group-title="ESPANHA",ES: RTVCE
+http://viphd4k.club:8080/VitorFaro2/9870/31192
+#EXTINF:-1 tvg-id="3/24" tvg-name="ES: 3/24" tvg-logo="" group-title="ESPANHA",ES: 3/24
+http://viphd4k.club:8080/VitorFaro2/9870/31193
+#EXTINF:-1 tvg-id="7 Región de Murcia" tvg-name="ES: 7RM HD" tvg-logo="" group-title="ESPANHA",ES: 7RM HD
+http://viphd4k.club:8080/VitorFaro2/9870/31200
+#EXTINF:-1 tvg-id="" tvg-name="ES: MURCIA" tvg-logo="" group-title="ESPANHA",ES: MURCIA
+http://viphd4k.club:8080/VitorFaro2/9870/31196
+#EXTINF:-1 tvg-id="Castilla - La Mancha TV" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/castillalamancha.png" group-title="ESPANHA",ES: CASTILLA LA MANCHA
+http://viphd4k.club:8080/VitorFaro2/9870/31205
+#EXTINF:-1 tvg-id="Canal Extremadura TV" tvg-name="ES: CANAL EXTREMADURA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalextremadurasat.png" group-title="ESPANHA",ES: CANAL EXTREMADURA
+http://viphd4k.club:8080/VitorFaro2/9870/31190
+#EXTINF:-1 tvg-id="Galicia TV" tvg-name="ES: TV GALICIA" tvg-logo="" group-title="ESPANHA",ES: TV GALICIA
+http://viphd4k.club:8080/VitorFaro2/9870/35828
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDORRA" tvg-logo="" group-title="ESPANHA",ES: ANDORRA
+http://viphd4k.club:8080/VitorFaro2/9870/31201
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Cine ----★●•" tvg-logo="" group-title="ESPANHA",•●★--- Cine ----★●•
+http://viphd4k.club:8080/VitorFaro2/9870/31188
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="ESPANHA",ES: #0
+http://viphd4k.club:8080/VitorFaro2/9870/31186
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 HD" tvg-logo="" group-title="ESPANHA",ES: #0 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31187
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/hollywood.png" group-title="ESPANHA",ES: HOLLYWOOD
+http://viphd4k.club:8080/VitorFaro2/9870/31170
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/hollywood.png" group-title="ESPANHA",ES: HOLLYWOOD HD
+http://viphd4k.club:8080/VitorFaro2/9870/31169
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarcomedia.png" group-title="ESPANHA",ES: MOVISTAR COMEDIA
+http://viphd4k.club:8080/VitorFaro2/9870/31185
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarcomedia.png" group-title="ESPANHA",ES: MOVISTAR COMEDIA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31184
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="ES: MOVISTAR  ACCION" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistaraccion.png" group-title="ESPANHA",ES: MOVISTAR  ACCION
+http://viphd4k.club:8080/VitorFaro2/9870/31175
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistaraccion.png" group-title="ESPANHA",ES: MOVISTAR ACCION HD
+http://viphd4k.club:8080/VitorFaro2/9870/31174
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="ES: MOVISTAR  ESTRENOS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarestrenos.png" group-title="ESPANHA",ES: MOVISTAR  ESTRENOS
+http://viphd4k.club:8080/VitorFaro2/9870/31177
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarestrenos.png" group-title="ESPANHA",ES: MOVISTAR ESTRENOS HD
+http://viphd4k.club:8080/VitorFaro2/9870/31176
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="" group-title="ESPANHA",ES: MOVISTAR DRAMA
+http://viphd4k.club:8080/VitorFaro2/9870/31183
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="" group-title="ESPANHA",ES: MOVISTAR DRAMA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31182
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CINEDOC&ROLL" tvg-logo="" group-title="ESPANHA",ES: M.CINEDOC&ROLL
+http://viphd4k.club:8080/VitorFaro2/9870/31178
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CINEDOC&ROLL HD" tvg-logo="" group-title="ESPANHA",ES: M.CINEDOC&ROLL HD
+http://viphd4k.club:8080/VitorFaro2/9870/31179
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="ES: MOVISTAR SERIES" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarseries.png" group-title="ESPANHA",ES: MOVISTAR SERIES
+http://viphd4k.club:8080/VitorFaro2/9870/31172
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarseries.png" group-title="ESPANHA",ES: MOVISTAR SERIES HD
+http://viphd4k.club:8080/VitorFaro2/9870/31173
+#EXTINF:-1 tvg-id="" tvg-name="ES: SERIESMANIA" tvg-logo="" group-title="ESPANHA",ES: SERIESMANIA
+http://viphd4k.club:8080/VitorFaro2/9870/31181
+#EXTINF:-1 tvg-id="" tvg-name="ES: SERIESMANIA HD" tvg-logo="" group-title="ESPANHA",ES: SERIESMANIA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31180
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="ESPANHA",ES: CANAL DE LAS ESTRELLAS
+http://viphd4k.club:8080/VitorFaro2/9870/31160
+#EXTINF:-1 tvg-id="TCM" tvg-name="ES: TCM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tcm.png" group-title="ESPANHA",ES: TCM
+http://viphd4k.club:8080/VitorFaro2/9870/31168
+#EXTINF:-1 tvg-id="TCM" tvg-name="ES: TCM HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tcm.png" group-title="ESPANHA",ES: TCM HD
+http://viphd4k.club:8080/VitorFaro2/9870/31167
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/amc.png" group-title="ESPANHA",ES: AMC
+http://viphd4k.club:8080/VitorFaro2/9870/31152
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/amc.png" group-title="ESPANHA",ES: AMC HD
+http://viphd4k.club:8080/VitorFaro2/9870/31151
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/axn.png" group-title="ESPANHA",ES: AXN
+http://viphd4k.club:8080/VitorFaro2/9870/31156
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/axn.png" group-title="ESPANHA",ES: AXN HD
+http://viphd4k.club:8080/VitorFaro2/9870/31155
+#EXTINF:-1 tvg-id="AXN White PT" tvg-name="ES: AXN WHITE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/axnwhite.png" group-title="ESPANHA",ES: AXN WHITE
+http://viphd4k.club:8080/VitorFaro2/9870/31154
+#EXTINF:-1 tvg-id="AXN White PT" tvg-name="ES: AXN WHITE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/axnwhite.png" group-title="ESPANHA",ES: AXN WHITE HD
+http://viphd4k.club:8080/VitorFaro2/9870/31153
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="ES: CALLE 13" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/calle13.png" group-title="ESPANHA",ES: CALLE 13
+http://viphd4k.club:8080/VitorFaro2/9870/31159
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="ES: CALLE 13 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/calle13.png" group-title="ESPANHA",ES: CALLE 13 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31158
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/xtrm.png" group-title="ESPANHA",ES: XTRM
+http://viphd4k.club:8080/VitorFaro2/9870/31161
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="ES: FOX" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/fox.png" group-title="ESPANHA",ES: FOX
+http://viphd4k.club:8080/VitorFaro2/9870/31144
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="ES: FOX HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/foxhd.png" group-title="ESPANHA",ES: FOX HD
+http://viphd4k.club:8080/VitorFaro2/9870/31143
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="ES: FOX LIFE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/foxlife.png" group-title="ESPANHA",ES: FOX LIFE
+http://viphd4k.club:8080/VitorFaro2/9870/31146
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="ES: FOX LIFE HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/foxlife.png" group-title="ESPANHA",ES: FOX LIFE HD
+http://viphd4k.club:8080/VitorFaro2/9870/31145
+#EXTINF:-1 tvg-id="Dark" tvg-name="ES: DARK" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/dark.png" group-title="ESPANHA",ES: DARK
+http://viphd4k.club:8080/VitorFaro2/9870/31163
+#EXTINF:-1 tvg-id="COSMO" tvg-name="ES: COSMO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cosmo.png" group-title="ESPANHA",ES: COSMO
+http://viphd4k.club:8080/VitorFaro2/9870/31142
+#EXTINF:-1 tvg-id="COSMO" tvg-name="ES: COSMO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cosmo.png" group-title="ESPANHA",ES: COSMO HD
+http://viphd4k.club:8080/VitorFaro2/9870/31141
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE ESPAGNOL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/dcineespa1ol.png" group-title="ESPANHA",ES: CINE ESPAGNOL
+http://viphd4k.club:8080/VitorFaro2/9870/31171
+#EXTINF:-1 tvg-id="" tvg-name="ES: DE PELICULA" tvg-logo="" group-title="ESPANHA",ES: DE PELICULA
+http://viphd4k.club:8080/VitorFaro2/9870/31162
+#EXTINF:-1 tvg-id="TNT" tvg-name="ES: TNT" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tnt.png" group-title="ESPANHA",ES: TNT
+http://viphd4k.club:8080/VitorFaro2/9870/31166
+#EXTINF:-1 tvg-id="TNT" tvg-name="ES: TNT HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tnt.png" group-title="ESPANHA",ES: TNT HD
+http://viphd4k.club:8080/VitorFaro2/9870/31165
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/somos.png" group-title="ESPANHA",ES: SOMOS
+http://viphd4k.club:8080/VitorFaro2/9870/31164
+#EXTINF:-1 tvg-id="Sundance Channel" tvg-name="ES: SUNDANCE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/sundance.png" group-title="ESPANHA",ES: SUNDANCE
+http://viphd4k.club:8080/VitorFaro2/9870/31157
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ES: SYFY HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/syfy.png" group-title="ESPANHA",ES: SYFY HD
+http://viphd4k.club:8080/VitorFaro2/9870/31148
+#EXTINF:-1 tvg-id="Popular TV Murcia" tvg-name="ES: POPULAR TV" tvg-logo="" group-title="ESPANHA",ES: POPULAR TV
+http://viphd4k.club:8080/VitorFaro2/9870/31199
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/paramountchannel.png" group-title="ESPANHA",ES: PARAMOUNT CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/31149
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES HD" tvg-logo="" group-title="ESPANHA",ES: A3SERIES HD
+http://viphd4k.club:8080/VitorFaro2/9870/31219
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA SD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mega.png" group-title="ESPANHA",ES: MEGA SD
+http://viphd4k.club:8080/VitorFaro2/9870/31147
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla1.png" group-title="ESPANHA",ES: Taquilla 1
+http://viphd4k.club:8080/VitorFaro2/9870/15568
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla2.png" group-title="ESPANHA",ES: Taquilla 2
+http://viphd4k.club:8080/VitorFaro2/9870/15567
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla3.png" group-title="ESPANHA",ES: Taquilla 3
+http://viphd4k.club:8080/VitorFaro2/9870/15566
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla4.png" group-title="ESPANHA",ES: Taquilla 4
+http://viphd4k.club:8080/VitorFaro2/9870/15565
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla5.png" group-title="ESPANHA",ES: Taquilla 5
+http://viphd4k.club:8080/VitorFaro2/9870/15564
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquilla6.png" group-title="ESPANHA",ES: Taquilla 6
+http://viphd4k.club:8080/VitorFaro2/9870/15563
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 7" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquillahd.png" group-title="ESPANHA",ES: Taquilla 7
+http://viphd4k.club:8080/VitorFaro2/9870/15562
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 8" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquillahd.png" group-title="ESPANHA",ES: Taquilla 8
+http://viphd4k.club:8080/VitorFaro2/9870/15561
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 9" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/taquillahd.png" group-title="ESPANHA",ES: Taquilla 9
+http://viphd4k.club:8080/VitorFaro2/9870/15560
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alquiler.png" group-title="ESPANHA",ES: ALQUILER 1
+http://viphd4k.club:8080/VitorFaro2/9870/23787
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alquiler2.png" group-title="ESPANHA",ES: ALQUILER 2
+http://viphd4k.club:8080/VitorFaro2/9870/23786
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alquiler2.png" group-title="ESPANHA",ES: ALQUILER 3
+http://viphd4k.club:8080/VitorFaro2/9870/23785
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alquiler2.png" group-title="ESPANHA",ES: ALQUILER 4
+http://viphd4k.club:8080/VitorFaro2/9870/23784
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/alquiler2.png" group-title="ESPANHA",ES: ALQUILER 5
+http://viphd4k.club:8080/VitorFaro2/9870/23783
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Deportes ----★●•" tvg-logo="" group-title="ESPANHA",•●★--- Deportes ----★●•
+http://viphd4k.club:8080/VitorFaro2/9870/31140
+#EXTINF:-1 tvg-id="" tvg-name="ES: VAMOS" tvg-logo="" group-title="ESPANHA",ES: VAMOS
+http://viphd4k.club:8080/VitorFaro2/9870/31137
+#EXTINF:-1 tvg-id="" tvg-name="ES: VAMOS HD" tvg-logo="" group-title="ESPANHA",ES: VAMOS HD
+http://viphd4k.club:8080/VitorFaro2/9870/31136
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC" tvg-logo="" group-title="ESPANHA",ES: SEVILLA FC
+http://viphd4k.club:8080/VitorFaro2/9870/31139
+#EXTINF:-1 tvg-id="Movistar El Partidazo HD" tvg-name="ES: MOVISTAR PARTIDAZO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarpartidazo.png" group-title="ESPANHA",ES: MOVISTAR PARTIDAZO
+http://viphd4k.club:8080/VitorFaro2/9870/31135
+#EXTINF:-1 tvg-id="Movistar El Partidazo HD" tvg-name="ES: MOVISTAR PARTIDAZO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarpartidazo.png" group-title="ESPANHA",ES: MOVISTAR PARTIDAZO HD
+http://viphd4k.club:8080/VitorFaro2/9870/31134
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="ES: MOVISTAR MOTOGP" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmotogp.png" group-title="ESPANHA",ES: MOVISTAR MOTOGP
+http://viphd4k.club:8080/VitorFaro2/9870/31133
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="ES: Dazn HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmotogp.png" group-title="ESPANHA",ES: Dazn HD
+http://viphd4k.club:8080/VitorFaro2/9870/31132
+#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="ES: MOVISTAR GOLF" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistargolf.png" group-title="ESPANHA",ES: MOVISTAR GOLF
+http://viphd4k.club:8080/VitorFaro2/9870/31080
+#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistargolf.png" group-title="ESPANHA",ES: MOVISTAR GOLF HD
+http://viphd4k.club:8080/VitorFaro2/9870/31088
+#EXTINF:-1 tvg-id="Movistar Fútbol" tvg-name="ES: MOVISTAR FUTBOL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarfutbol.png" group-title="ESPANHA",ES: MOVISTAR FUTBOL
+http://viphd4k.club:8080/VitorFaro2/9870/31087
+#EXTINF:-1 tvg-id="Movistar Fútbol" tvg-name="ES: MOVISTAR FUTBOL HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarfutbol.png" group-title="ESPANHA",ES: MOVISTAR FUTBOL HD
+http://viphd4k.club:8080/VitorFaro2/9870/31086
+#EXTINF:-1 tvg-id="Movistar Formula 1" tvg-name="ES: MOVISTAR F1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarf1.png" group-title="ESPANHA",ES: MOVISTAR F1
+http://viphd4k.club:8080/VitorFaro2/9870/31131
+#EXTINF:-1 tvg-id="Movistar Formula 1" tvg-name="ES:MOVISTAR F1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarf1.png" group-title="ESPANHA",ES:MOVISTAR F1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31130
+#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-name="ES: MOVISTAR DEPORTES 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistardeportes1.png" group-title="ESPANHA",ES: MOVISTAR DEPORTES 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31082
+#EXTINF:-1 tvg-id="Movistar Deportes 2" tvg-name="ES: MOVISTAR DEPORTES 2 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistardeportes2.png" group-title="ESPANHA",ES: MOVISTAR DEPORTES 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31081
+#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-name="ES: MULTI DEPORTE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE
+http://viphd4k.club:8080/VitorFaro2/9870/31104
+#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-name="ES: MULTI DEPORTE 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 1
+http://viphd4k.club:8080/VitorFaro2/9870/31103
+#EXTINF:-1 tvg-id="Movistar Deportes 2" tvg-name="ES: MULTI DEPORTE 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 2
+http://viphd4k.club:8080/VitorFaro2/9870/31102
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI DEPORTE 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 3
+http://viphd4k.club:8080/VitorFaro2/9870/31101
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI DEPORTE 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 5
+http://viphd4k.club:8080/VitorFaro2/9870/31099
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI DEPORTE 6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 6
+http://viphd4k.club:8080/VitorFaro2/9870/31098
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI DEPORTE 7" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistarmultideporte.png" group-title="ESPANHA",ES: MULTI DEPORTE 7
+http://viphd4k.club:8080/VitorFaro2/9870/31097
+#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-name="ES: M. ESPORTS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistaresports.png" group-title="ESPANHA",ES: M. ESPORTS
+http://viphd4k.club:8080/VitorFaro2/9870/31089
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEONES" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LCAMPEONES
+http://viphd4k.club:8080/VitorFaro2/9870/31126
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEONES HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LCAMPEONES HD
+http://viphd4k.club:8080/VitorFaro2/9870/31127
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M LIGA DE CAMPEONES 1
+http://viphd4k.club:8080/VitorFaro2/9870/31125
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31124
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES  2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES  2
+http://viphd4k.club:8080/VitorFaro2/9870/31123
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M LIGA DE CAMPEONES 2 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31122
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES  3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES  3
+http://viphd4k.club:8080/VitorFaro2/9870/31121
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES  4" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES  4
+http://viphd4k.club:8080/VitorFaro2/9870/31120
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES  5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES  5
+http://viphd4k.club:8080/VitorFaro2/9870/31119
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M LIGA DE CAMPEONES 6
+http://viphd4k.club:8080/VitorFaro2/9870/31118
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 7" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M LIGA DE CAMPEONES 7
+http://viphd4k.club:8080/VitorFaro2/9870/31117
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES  8" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalplusligadecampeones.png" group-title="ESPANHA",ES: M.LIGA DE CAMPEONES  8
+http://viphd4k.club:8080/VitorFaro2/9870/31116
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI FUTBOL 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/multifut1.png" group-title="ESPANHA",ES: MULTI FUTBOL 1
+http://viphd4k.club:8080/VitorFaro2/9870/31085
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI FUTBOL 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/multifut3hd.png" group-title="ESPANHA",ES: MULTI FUTBOL 3
+http://viphd4k.club:8080/VitorFaro2/9870/31083
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TVBAR 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatvbar.png" group-title="ESPANHA",ES: LA LIGA TVBAR 1
+http://viphd4k.club:8080/VitorFaro2/9870/31113
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGATVBAR" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatvbar.png" group-title="ESPANHA",ES: LA LIGATVBAR
+http://viphd4k.club:8080/VitorFaro2/9870/31114
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGATVBAR HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatvbar.png" group-title="ESPANHA",ES: LA LIGATVBAR HD
+http://viphd4k.club:8080/VitorFaro2/9870/31115
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA123" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatv.png" group-title="ESPANHA",ES: LA LIGA123
+http://viphd4k.club:8080/VitorFaro2/9870/31096
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA 123 TVM 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatv.png" group-title="ESPANHA",ES: LALIGA 123 TVM 1
+http://viphd4k.club:8080/VitorFaro2/9870/31095
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA 123 TVM 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatv.png" group-title="ESPANHA",ES: LALIGA 123 TVM 2
+http://viphd4k.club:8080/VitorFaro2/9870/31094
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA 123 TVM 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/laligatv.png" group-title="ESPANHA",ES: LALIGA 123 TVM 3
+http://viphd4k.club:8080/VitorFaro2/9870/31093
+#EXTINF:-1 tvg-id="Eurosport PT" tvg-name="ES: EUROSPORT 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport1.png" group-title="ESPANHA",ES: EUROSPORT 1
+http://viphd4k.club:8080/VitorFaro2/9870/31092
+#EXTINF:-1 tvg-id="Eurosport PT" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport1.png" group-title="ESPANHA",ES: EUROSPORT 1 HD
+http://viphd4k.club:8080/VitorFaro2/9870/31091
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/eurosport2.png" group-title="ESPANHA",ES: EUROSPORT 2
+http://viphd4k.club:8080/VitorFaro2/9870/31090
+#EXTINF:-1 tvg-id="beIN Sports" tvg-name="ES: BEIN LA LIGA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga.png" group-title="ESPANHA",ES: BEIN LA LIGA
+http://viphd4k.club:8080/VitorFaro2/9870/31111
+#EXTINF:-1 tvg-id="beIN Sports" tvg-name="ES: BEIN LA LIGA HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga.png" group-title="ESPANHA",ES: BEIN LA LIGA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31112
+#EXTINF:-1 tvg-id="beIN Sports" tvg-name="ES: BEIN LA LIGA 1" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga1.png" group-title="ESPANHA",ES: BEIN LA LIGA 1
+http://viphd4k.club:8080/VitorFaro2/9870/31110
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 2" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga2.png" group-title="ESPANHA",ES: BEIN LA LIGA 2
+http://viphd4k.club:8080/VitorFaro2/9870/31109
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 3" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga3.png" group-title="ESPANHA",ES: BEIN LA LIGA 3
+http://viphd4k.club:8080/VitorFaro2/9870/31108
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 5" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga3.png" group-title="ESPANHA",ES: BEIN LA LIGA 5
+http://viphd4k.club:8080/VitorFaro2/9870/31107
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 6" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga3.png" group-title="ESPANHA",ES: BEIN LA LIGA 6
+http://viphd4k.club:8080/VitorFaro2/9870/31106
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 7" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/beinlaliga3.png" group-title="ESPANHA",ES: BEIN LA LIGA 7
+http://viphd4k.club:8080/VitorFaro2/9870/31105
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/realmadridtv.png" group-title="ESPANHA",ES: REAL MADRID TV
+http://viphd4k.club:8080/VitorFaro2/9870/31078
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/realmadridtv.png" group-title="ESPANHA",ES: REAL MADRID TV HD
+http://viphd4k.club:8080/VitorFaro2/9870/31077
+#EXTINF:-1 tvg-id="Barça TV" tvg-name="ES: BARCA TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/barcatv.png" group-title="ESPANHA",ES: BARCA TV
+http://viphd4k.club:8080/VitorFaro2/9870/31079
+#EXTINF:-1 tvg-id="Gol" tvg-name="ES: GOL TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/gol.png" group-title="ESPANHA",ES: GOL TV
+http://viphd4k.club:8080/VitorFaro2/9870/31138
+#EXTINF:-1 tvg-id="Caza & Pesca" tvg-name="ES: CAZA Y PESCA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cazaypesca.png" group-title="ESPANHA",ES: CAZA Y PESCA
+http://viphd4k.club:8080/VitorFaro2/9870/31076
+#EXTINF:-1 tvg-id="Caza & Pesca" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cazaypesca.png" group-title="ESPANHA",ES: CAZA Y PESCA HD
+http://viphd4k.club:8080/VitorFaro2/9870/31075
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION" tvg-logo="" group-title="ESPANHA",ES: CAZAVISION
+http://viphd4k.club:8080/VitorFaro2/9870/31074
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="ES:TOROS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/torostv.png" group-title="ESPANHA",ES:TOROS
+http://viphd4k.club:8080/VitorFaro2/9870/31073
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/teledeporte.png" group-title="ESPANHA",ES: TELEDEPORTE
+http://viphd4k.club:8080/VitorFaro2/9870/31129
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/blaze.png" group-title="ESPANHA",ES: BLAZE
+http://viphd4k.club:8080/VitorFaro2/9870/31068
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA" tvg-logo="" group-title="ESPANHA",ES: CLASSICA
+http://viphd4k.club:8080/VitorFaro2/9870/31042
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="ES: COMEDY CENTRAL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/comedycenthd.png" group-title="ESPANHA",ES: COMEDY CENTRAL
+http://viphd4k.club:8080/VitorFaro2/9870/31150
+#EXTINF:-1 tvg-id="Crimen Investigación" tvg-name="ES: CRIMEN INVES" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/crimeinvest.png" group-title="ESPANHA",ES: CRIMEN INVES
+http://viphd4k.club:8080/VitorFaro2/9870/31069
+#EXTINF:-1 tvg-id="Cubavision" tvg-name="ES: CUBAVISION" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/cubavision.png" group-title="ESPANHA",ES: CUBAVISION
+http://viphd4k.club:8080/VitorFaro2/9870/31194
+#EXTINF:-1 tvg-id="Iberalia" tvg-name="ES: IBERALIA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/iberalia.png" group-title="ESPANHA",ES: IBERALIA
+http://viphd4k.club:8080/VitorFaro2/9870/31208
+#EXTINF:-1 tvg-id="História" tvg-name="ES: HISTORIA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/historia.png" group-title="ESPANHA",ES: HISTORIA
+http://viphd4k.club:8080/VitorFaro2/9870/31062
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeo.png" group-title="ESPANHA",ES: NATIONAL GEOGRAPHIC
+http://viphd4k.club:8080/VitorFaro2/9870/31066
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="ES: NAT GEO HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeo.png" group-title="ESPANHA",ES: NAT GEO HD
+http://viphd4k.club:8080/VitorFaro2/9870/31065
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NATIONAL GEO WILD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeowildhd.png" group-title="ESPANHA",ES: NATIONAL GEO WILD
+http://viphd4k.club:8080/VitorFaro2/9870/31064
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NATIONAL GEO WILD HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/natgeowildhd.png" group-title="ESPANHA",ES: NATIONAL GEO WILD HD
+http://viphd4k.club:8080/VitorFaro2/9870/31063
+#EXTINF:-1 tvg-id="Odisseia" tvg-name="ES: ODISEA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/odisea.png" group-title="ESPANHA",ES: ODISEA
+http://viphd4k.club:8080/VitorFaro2/9870/31059
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/24horas.png" group-title="ESPANHA",ES: 24 HORAS
+http://viphd4k.club:8080/VitorFaro2/9870/31195
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="ES: DISCOVERY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discovery.png" group-title="ESPANHA",ES: DISCOVERY
+http://viphd4k.club:8080/VitorFaro2/9870/31067
+#EXTINF:-1 tvg-id="Fox News" tvg-name="ES: FOX NEWS" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/foxnews.png" group-title="ESPANHA",ES: FOX NEWS
+http://viphd4k.club:8080/VitorFaro2/9870/31060
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="ES: TOROS HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/torostv.png" group-title="ESPANHA",ES: TOROS HD
+http://viphd4k.club:8080/VitorFaro2/9870/31072
+#EXTINF:-1 tvg-id="Viajar" tvg-name="ES: VIAJAR HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/viajar.png" group-title="ESPANHA",ES: VIAJAR HD
+http://viphd4k.club:8080/VitorFaro2/9870/31071
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDP HD" tvg-logo="" group-title="ESPANHA",ES: TDP HD
+http://viphd4k.club:8080/VitorFaro2/9870/31128
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/canalcocina.png" group-title="ESPANHA",ES: CANAL COCINA
+http://viphd4k.club:8080/VitorFaro2/9870/31070
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Musica ----★●•" tvg-logo="" group-title="ESPANHA",•●★--- Musica ----★●•
+http://viphd4k.club:8080/VitorFaro2/9870/31046
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEHIT" tvg-logo="" group-title="ESPANHA",ES: TELEHIT
+http://viphd4k.club:8080/VitorFaro2/9870/31044
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="ES: MEZZO" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mezzo.png" group-title="ESPANHA",ES: MEZZO
+http://viphd4k.club:8080/VitorFaro2/9870/31039
+#EXTINF:-1 tvg-id="MTV España" tvg-name="ES: MTV ESPAÑA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/mtv.png" group-title="ESPANHA",ES: MTV ESPAÑA
+http://viphd4k.club:8080/VitorFaro2/9870/31045
+#EXTINF:-1 tvg-id="" tvg-name="ES: RITMOSON" tvg-logo="" group-title="ESPANHA",ES: RITMOSON
+http://viphd4k.club:8080/VitorFaro2/9870/31041
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="ES: SOL MUSICA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/solmsica.png" group-title="ESPANHA",ES: SOL MUSICA
+http://viphd4k.club:8080/VitorFaro2/9870/31040
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE" tvg-logo="" group-title="ESPANHA",ES: TRECE
+http://viphd4k.club:8080/VitorFaro2/9870/31197
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVM" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/tvm3.png" group-title="ESPANHA",ES: TVM
+http://viphd4k.club:8080/VitorFaro2/9870/31202
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIRGIN TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/virgintv.png" group-title="ESPANHA",ES: VIRGIN TV
+http://viphd4k.club:8080/VitorFaro2/9870/31043
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Dibujo animado ----★●•" tvg-logo="" group-title="ESPANHA",•●★--- Dibujo animado ----★●•
+http://viphd4k.club:8080/VitorFaro2/9870/31058
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneychannel.png" group-title="ESPANHA",ES: DISNEY CHANNEL
+http://viphd4k.club:8080/VitorFaro2/9870/31050
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneychannel.png" group-title="ESPANHA",ES: DISNEY CHANNEL HD
+http://viphd4k.club:8080/VitorFaro2/9870/31049
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyjunior.png" group-title="ESPANHA",ES: DISNEY JUNIOR
+http://viphd4k.club:8080/VitorFaro2/9870/31048
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="ES: DISNEY XD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/disneyxddn.png" group-title="ESPANHA",ES: DISNEY XD
+http://viphd4k.club:8080/VitorFaro2/9870/31047
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DISNEY" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/movistardisney.png" group-title="ESPANHA",ES: MOVISTAR DISNEY
+http://viphd4k.club:8080/VitorFaro2/9870/31057
+#EXTINF:-1 tvg-id="Nick Junior" tvg-name="ES: NICK JUNIOR" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickjunior.png" group-title="ESPANHA",ES: NICK JUNIOR
+http://viphd4k.club:8080/VitorFaro2/9870/31054
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ES: NICKELODEON" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickelodeon.png" group-title="ESPANHA",ES: NICKELODEON
+http://viphd4k.club:8080/VitorFaro2/9870/31056
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ES: NICKELODEON HD" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/nickelodeon.png" group-title="ESPANHA",ES: NICKELODEON HD
+http://viphd4k.club:8080/VitorFaro2/9870/31055
+#EXTINF:-1 tvg-id="Panda" tvg-name="ES: CANAL PANDA" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/panda.png" group-title="ESPANHA",ES: CANAL PANDA
+http://viphd4k.club:8080/VitorFaro2/9870/31051
+#EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/boing.png" group-title="ESPANHA",ES: BOING
+http://viphd4k.club:8080/VitorFaro2/9870/31052
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV" tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/babytv.png" group-title="ESPANHA",ES: BABY TV
+http://viphd4k.club:8080/VitorFaro2/9870/31053
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
