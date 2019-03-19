@@ -1,0 +1,1453 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="6ter">
+    <display-name lang="fr">6ter</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png" />
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Arte">
+    <display-name lang="fr">Arte</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BFMTV">
+    <display-name lang="fr">BFMTV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+">
+    <display-name lang="fr">Canal+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Chérie 25">
+    <display-name lang="fr">Chérie 25</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="C8">
+    <display-name lang="fr">C8</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CSTAR">
+    <display-name lang="fr">CSTAR</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 2">
+    <display-name lang="fr">France 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3">
+    <display-name lang="fr">France 3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 4">
+    <display-name lang="fr">France 4</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 5">
+    <display-name lang="fr">France 5</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France Ô">
+    <display-name lang="fr">France Ô</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Franceinfo">
+    <display-name lang="fr">Franceinfo</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Gulli">
+    <display-name lang="fr">Gulli</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TF1 Séries Films">
+    <display-name lang="fr">TF1 Séries Films</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CNEWS">
+    <display-name lang="fr">CNEWS</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="La Chaîne parlementaire">
+    <display-name lang="fr">La Chaîne parlementaire</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="LCI">
+    <display-name lang="fr">LCI</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="L'Equipe">
+    <display-name lang="fr">L'Equipe</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="fr">M6</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="NRJ 12">
+    <display-name lang="fr">NRJ 12</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TFX">
+    <display-name lang="fr">TFX</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Story">
+    <display-name lang="fr">RMC Story</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Découverte">
+    <display-name lang="fr">RMC Découverte</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TF1">
+    <display-name lang="fr">TF1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TMC">
+    <display-name lang="fr">TMC</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="W9">
+    <display-name lang="fr">W9</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="IDF1">
+    <display-name lang="fr">IDF1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Action">
+    <display-name lang="fr">Action</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Cinéma">
+    <display-name lang="fr">Canal+ Cinéma</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Décalé">
+    <display-name lang="fr">Canal+ Décalé</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Sport">
+    <display-name lang="fr">Canal+ Sport</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné FX">
+    <display-name lang="fr">Ciné FX</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Polar">
+    <display-name lang="fr">Polar</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Classic">
+    <display-name lang="fr">Ciné+ Classic</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Classic Belgique">
+    <display-name lang="fr">Ciné+ Classic Belgique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Club">
+    <display-name lang="fr">Ciné+ Club</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Emotion">
+    <display-name lang="fr">Ciné+ Emotion</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Famiz">
+    <display-name lang="fr">Ciné+ Famiz</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Frisson">
+    <display-name lang="fr">Ciné+ Frisson</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Premier">
+    <display-name lang="fr">Ciné+ Premier</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Premier Belgique">
+    <display-name lang="fr">Ciné+ Premier Belgique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OCS Choc">
+    <display-name lang="fr">OCS Choc</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OCS City">
+    <display-name lang="fr">OCS City</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OCS Géants">
+    <display-name lang="fr">OCS Géants</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OCS Max">
+    <display-name lang="fr">OCS Max</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="fr">Paramount Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TCM Cinéma">
+    <display-name lang="fr">TCM Cinéma</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="13eme RUE">
+    <display-name lang="fr">13eme RUE</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="AB 1">
+    <display-name lang="fr">AB 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="AB 3">
+    <display-name lang="fr">AB 3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ABXPLORE">
+    <display-name lang="fr">ABXPLORE</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Séries">
+    <display-name lang="fr">Canal+ Séries</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Comédie+">
+    <display-name lang="fr">Comédie+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="E !">
+    <display-name lang="fr">E !</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Paris Première">
+    <display-name lang="fr">Paris Première</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTL 9">
+    <display-name lang="fr">RTL 9</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="serieclub">
+    <display-name lang="fr">serieclub</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Téva">
+    <display-name lang="fr">Téva</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TvBreizh">
+    <display-name lang="fr">TvBreizh</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Animaux">
+    <display-name lang="fr">Animaux</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Chasse et pêche">
+    <display-name lang="fr">Chasse et pêche</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="fr">Discovery Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="fr">Discovery Science</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Equidia Life">
+    <display-name lang="fr">Equidia Life</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Equidia">
+    <display-name lang="fr">Equidia</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Histoire">
+    <display-name lang="fr">Histoire</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="fr">National Geographic</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Planète+">
+    <display-name lang="fr">Planète+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Planète+ Aventure Expérience">
+    <display-name lang="fr">Planète+ Aventure Expérience</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Science &amp; Vie TV">
+    <display-name lang="fr">Science &amp; Vie TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Seasons">
+    <display-name lang="fr">Seasons</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Toute l'histoire">
+    <display-name lang="fr">Toute l'histoire</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ushuaïa TV">
+    <display-name lang="fr">Ushuaïa TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Voyage">
+    <display-name lang="fr">Voyage</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS 1">
+    <display-name lang="fr">beIN SPORTS 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="fr">beIN SPORTS 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="fr">beIN SPORTS 3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 4">
+    <display-name lang="fr">beIN SPORTS MAX 4</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 5">
+    <display-name lang="fr">beIN SPORTS MAX 5</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 6">
+    <display-name lang="fr">beIN SPORTS MAX 6</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 7">
+    <display-name lang="fr">beIN SPORTS MAX 7</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 8">
+    <display-name lang="fr">beIN SPORTS MAX 8</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 9">
+    <display-name lang="fr">beIN SPORTS MAX 9</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 10">
+    <display-name lang="fr">beIN SPORTS MAX 10</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="fr">Eurosport 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="fr">Eurosport 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Extreme Sports Channel">
+    <display-name lang="fr">Extreme Sports Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Infosport+">
+    <display-name lang="fr">Infosport+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Motorsport TV">
+    <display-name lang="fr">Motorsport TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OLTV">
+    <display-name lang="fr">OLTV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="OMTV">
+    <display-name lang="fr">OMTV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Onzéo">
+    <display-name lang="fr">Onzéo</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Sport Access 1">
+    <display-name lang="fr">RMC Sport Access 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Sport Access 2">
+    <display-name lang="fr">RMC Sport Access 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="SFR Sport 4">
+    <display-name lang="fr">SFR Sport 4</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Sport UHD">
+    <display-name lang="fr">RMC Sport UHD</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC Sport 4">
+    <display-name lang="fr">RMC Sport 4</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Golf Channel">
+    <display-name lang="fr">Golf Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="fr">Baby TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="fr">Boomerang</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal J">
+    <display-name lang="fr">Canal J</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="fr">Disney Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Disney Channel +1">
+    <display-name lang="fr">Disney Channel +1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Disney Cinema">
+    <display-name lang="fr">Disney Cinema</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="fr">Disney Junior</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="fr">Disney XD</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Game One">
+    <display-name lang="fr">Game One</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ElleGirl">
+    <display-name lang="fr">ElleGirl</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Mangas">
+    <display-name lang="fr">Mangas</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nickelodéon">
+    <display-name lang="fr">Nickelodéon</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Piwi+">
+    <display-name lang="fr">Piwi+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TéléToon+">
+    <display-name lang="fr">TéléToon+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TéléToon+1">
+    <display-name lang="fr">TéléToon+1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TIJI">
+    <display-name lang="fr">TIJI</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="M6 Music">
+    <display-name lang="fr">M6 Music</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MCM">
+    <display-name lang="fr">MCM</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RFM TV">
+    <display-name lang="fr">RFM TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MCM Top">
+    <display-name lang="fr">MCM Top</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Melody">
+    <display-name lang="fr">Melody</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="fr">Mezzo</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="fr">Mezzo Live HD</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="fr">MTV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="fr">MTV Rocks</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV Base">
+    <display-name lang="fr">MTV Base</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="fr">MTV Hits</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="NRJ Hits">
+    <display-name lang="fr">NRJ Hits</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="fr">Trace Urban</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Classica English">
+    <display-name lang="fr">Classica English</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="fr">VH1 Classic</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="fr">VH1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BFM Business">
+    <display-name lang="fr">BFM Business</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="fr">Euronews</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="fr">France 24</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="fr">TV5MONDE</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="fr">Al Jazeera English</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="fr">BBC World News</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Bloomberg UK-Europe">
+    <display-name lang="fr">Bloomberg UK-Europe</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="fr">CNN</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="DW (English)">
+    <display-name lang="fr">DW (English)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="I24news">
+    <display-name lang="fr">I24news</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal 32">
+    <display-name lang="fr">Canal 32</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Corse Via Stella">
+    <display-name lang="fr">France 3 Corse Via Stella</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TVSUD Marseille">
+    <display-name lang="fr">TVSUD Marseille</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="LM TV Sarthe">
+    <display-name lang="fr">LM TV Sarthe</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Télénantes">
+    <display-name lang="fr">Télénantes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TLM (Télé Lyon Métropole)">
+    <display-name lang="fr">TLM (Télé Lyon Métropole)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TVR Rennes 35 Bretagne">
+    <display-name lang="fr">TVR Rennes 35 Bretagne</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TV Tours">
+    <display-name lang="fr">TV Tours</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Demain TV">
+    <display-name lang="fr">Demain TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="M6 Boutique">
+    <display-name lang="fr">M6 Boutique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="fr">Nautical Channel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Dorcel TV">
+    <display-name lang="fr">Dorcel TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Hustler TV">
+    <display-name lang="fr">Hustler TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="XXL">
+    <display-name lang="fr">XXL</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ARD">
+    <display-name lang="fr">ARD</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTL TVI">
+    <display-name lang="fr">RTL TVI</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Sat 1">
+    <display-name lang="fr">Sat 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="WDR">
+    <display-name lang="fr">WDR</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ZDF">
+    <display-name lang="fr">ZDF</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BBC 1">
+    <display-name lang="fr">BBC 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BBC 2">
+    <display-name lang="fr">BBC 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="fr">BBC Entertainment</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="2M Monde">
+    <display-name lang="fr">2M Monde</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Q2">
+    <display-name lang="fr">Q2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BE 1">
+    <display-name lang="fr">BE 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Be Ciné">
+    <display-name lang="fr">Be Ciné</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Be Séries">
+    <display-name lang="fr">Be Séries</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="VOOsport World 1">
+    <display-name lang="fr">VOOsport World 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="VOOsport World 2">
+    <display-name lang="fr">VOOsport World 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canvas">
+    <display-name lang="fr">Canvas</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Club RTL">
+    <display-name lang="fr">Club RTL</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="één">
+    <display-name lang="fr">één</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="La Deux">
+    <display-name lang="fr">La Deux</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="La Trois">
+    <display-name lang="fr">La Trois</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="La Une">
+    <display-name lang="fr">La Une</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Plug RTL">
+    <display-name lang="fr">Plug RTL</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Vijf">
+    <display-name lang="fr">Vijf</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Vier">
+    <display-name lang="fr">Vier</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="VTM">
+    <display-name lang="fr">VTM</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="fr">Real Madrid TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="fr">TVE</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TVE 1">
+    <display-name lang="fr">TVE 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Rai Due">
+    <display-name lang="fr">Rai Due</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Rai Tre">
+    <display-name lang="fr">Rai Tre</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Rai Uno">
+    <display-name lang="fr">Rai Uno</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTPI">
+    <display-name lang="fr">RTPI</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTS Un">
+    <display-name lang="fr">RTS Un</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTS Deux">
+    <display-name lang="fr">RTS Deux</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="SRF 1">
+    <display-name lang="fr">SRF 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="SRF 2">
+    <display-name lang="fr">SRF 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Stingray Brava">
+    <display-name lang="fr">Stingray Brava</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Family">
+    <display-name lang="fr">Canal+ Family</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="3SAT">
+    <display-name lang="fr">3SAT</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="8 Mont-Blanc">
+    <display-name lang="fr">8 Mont-Blanc</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="A+ International France">
+    <display-name lang="fr">A+ International France</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Alsace 20">
+    <display-name lang="fr">Alsace 20</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Altice Studio">
+    <display-name lang="fr">Altice Studio</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Arte Belgique">
+    <display-name lang="fr">Arte Belgique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ATV Martinique">
+    <display-name lang="fr">ATV Martinique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Automoto">
+    <display-name lang="fr">Automoto</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="BET">
+    <display-name lang="fr">BET</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Boing">
+    <display-name lang="fr">Boing</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Brazzers TV">
+    <display-name lang="fr">Brazzers TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal partagé TNT Ile-de-France">
+    <display-name lang="fr">Canal partagé TNT Ile-de-France</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Afrique Ouest">
+    <display-name lang="fr">Canal+ Afrique Ouest</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Cinéma DROM">
+    <display-name lang="fr">Canal+ Cinéma DROM</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Canal+ Polynésie">
+    <display-name lang="fr">Canal+ Polynésie</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="fr">Cartoon Network</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CBS Reality EMAE1">
+    <display-name lang="fr">CBS Reality EMAE1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="fr">CGTN</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ (A la carte)">
+    <display-name lang="fr">Ciné+ (A la carte)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Frisson Afrique">
+    <display-name lang="fr">Ciné+ Frisson Afrique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ciné+ Star Afrique">
+    <display-name lang="fr">Ciné+ Star Afrique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CNBC Europe">
+    <display-name lang="fr">CNBC Europe</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="CNBC Europe + Nat Geo">
+    <display-name lang="fr">CNBC Europe + Nat Geo</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Crime District">
+    <display-name lang="fr">Crime District</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="fr">ETB 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="ETB 2">
+    <display-name lang="fr">ETB 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="fr">Eurochannel</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="fr">Fashion TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Foot+ 24/24">
+    <display-name lang="fr">Foot+ 24/24</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Alpes">
+    <display-name lang="fr">France 3 Alpes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Alsace">
+    <display-name lang="fr">France 3 Alsace</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Aquitaine">
+    <display-name lang="fr">France 3 Aquitaine</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Auvergne">
+    <display-name lang="fr">France 3 Auvergne</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Basse-Normandie">
+    <display-name lang="fr">France 3 Basse-Normandie</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Bourgogne">
+    <display-name lang="fr">France 3 Bourgogne</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Bretagne">
+    <display-name lang="fr">France 3 Bretagne</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Centre-Val de Loire">
+    <display-name lang="fr">France 3 Centre-Val de Loire</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Champagne-Ardennes">
+    <display-name lang="fr">France 3 Champagne-Ardennes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Côte d'Azur">
+    <display-name lang="fr">France 3 Côte d'Azur</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Franche-Comté">
+    <display-name lang="fr">France 3 Franche-Comté</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Haute-Normandie">
+    <display-name lang="fr">France 3 Haute-Normandie</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Languedoc-Roussillon">
+    <display-name lang="fr">France 3 Languedoc-Roussillon</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Limousin">
+    <display-name lang="fr">France 3 Limousin</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Lorraine">
+    <display-name lang="fr">France 3 Lorraine</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Midi-Pyrénées">
+    <display-name lang="fr">France 3 Midi-Pyrénées</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Nord Pas-de-Calais">
+    <display-name lang="fr">France 3 Nord Pas-de-Calais</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Paris Ile-de-France">
+    <display-name lang="fr">France 3 Paris Ile-de-France</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Pays de la Loire">
+    <display-name lang="fr">France 3 Pays de la Loire</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Picardie">
+    <display-name lang="fr">France 3 Picardie</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Poitou-Charentes">
+    <display-name lang="fr">France 3 Poitou-Charentes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Provence-Alpes">
+    <display-name lang="fr">France 3 Provence-Alpes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="France 3 Rhône-Alpes">
+    <display-name lang="fr">France 3 Rhône-Alpes</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ginx">
+    <display-name lang="fr">Ginx</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Golf+">
+    <display-name lang="fr">Golf+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Gong Max">
+    <display-name lang="fr">Gong Max</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Guadeloupe la 1ère">
+    <display-name lang="fr">Guadeloupe la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Guyane la 1ère">
+    <display-name lang="fr">Guyane la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="J-One">
+    <display-name lang="fr">J-One</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Ketnet">
+    <display-name lang="fr">Ketnet</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="KTO">
+    <display-name lang="fr">KTO</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="KZTV">
+    <display-name lang="fr">KZTV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="La Chaîne Météo">
+    <display-name lang="fr">La Chaîne Météo</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Man-X">
+    <display-name lang="fr">Man-X</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Martinique la 1ère">
+    <display-name lang="fr">Martinique la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MCE (Ma Chaîne Etudiante)">
+    <display-name lang="fr">MCE (Ma Chaîne Etudiante)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MCS Bien-être">
+    <display-name lang="fr">MCS Bien-être</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MCS Maison">
+    <display-name lang="fr">MCS Maison</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Mirabelle TV">
+    <display-name lang="fr">Mirabelle TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="fr">MTV Dance</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="MTV Hits (France)">
+    <display-name lang="fr">MTV Hits (France)</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports">
+    <display-name lang="fr">Multisports</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 1">
+    <display-name lang="fr">Multisports 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 2">
+    <display-name lang="fr">Multisports 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 3">
+    <display-name lang="fr">Multisports 3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 4">
+    <display-name lang="fr">Multisports 4</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 5">
+    <display-name lang="fr">Multisports 5</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Multisports 6">
+    <display-name lang="fr">Multisports 6</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Museum">
+    <display-name lang="fr">Museum</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="fr">Nat Geo Wild</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nickelodeon Junior">
+    <display-name lang="fr">Nickelodeon Junior</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nickelodéon Teen">
+    <display-name lang="fr">Nickelodéon Teen</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nolife">
+    <display-name lang="fr">Nolife</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nollywood TV">
+    <display-name lang="fr">Nollywood TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Nouvelle-Calédonie la 1ère">
+    <display-name lang="fr">Nouvelle-Calédonie la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="NPO1">
+    <display-name lang="fr">NPO1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="NPO2">
+    <display-name lang="fr">NPO2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="NPO3">
+    <display-name lang="fr">NPO3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Pink TV">
+    <display-name lang="fr">Pink TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Planète+ Crime Investigation">
+    <display-name lang="fr">Planète+ Crime Investigation</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Polar+">
+    <display-name lang="fr">Polar+</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Polynésie la 1ère">
+    <display-name lang="fr">Polynésie la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Private TV">
+    <display-name lang="fr">Private TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Proximus 11">
+    <display-name lang="fr">Proximus 11</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Réunion la 1ère">
+    <display-name lang="fr">Réunion la 1ère</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RMC">
+    <display-name lang="fr">RMC</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RSI LA 1">
+    <display-name lang="fr">RSI LA 1</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RSI LA 2">
+    <display-name lang="fr">RSI LA 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="RTL Télévision">
+    <display-name lang="fr">RTL Télévision</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Stingray Djazz">
+    <display-name lang="fr">Stingray Djazz</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Stingray i-Concerts">
+    <display-name lang="fr">Stingray i-Concerts</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Sundance TV">
+    <display-name lang="fr">Sundance TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Supersport 3">
+    <display-name lang="fr">Supersport 3</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="SWR">
+    <display-name lang="fr">SWR</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="fr">Syfy</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Télésud">
+    <display-name lang="fr">Télésud</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Toonami">
+    <display-name lang="fr">Toonami</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Trace Africa">
+    <display-name lang="fr">Trace Africa</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TRACE Sport Stars">
+    <display-name lang="fr">TRACE Sport Stars</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Trace Toca">
+    <display-name lang="fr">Trace Toca</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Trace Tropical">
+    <display-name lang="fr">Trace Tropical</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Trek">
+    <display-name lang="fr">Trek</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TV5MONDE Afrique">
+    <display-name lang="fr">TV5MONDE Afrique</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TV5MONDE Europe">
+    <display-name lang="fr">TV5MONDE Europe</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TV7 Bordeaux">
+    <display-name lang="fr">TV7 Bordeaux</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TVE 2">
+    <display-name lang="fr">TVE 2</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Txingudi">
+    <display-name lang="fr">Txingudi</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Vivolta">
+    <display-name lang="fr">Vivolta</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Warner TV">
+    <display-name lang="fr">Warner TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Zee Cinéma">
+    <display-name lang="fr">Zee Cinéma</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="fr">Zee TV</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <programme start="20190319000000 +0000" stop="20190319235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20190320000000 +0000" stop="20190320235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20190321000000 +0000" stop="20190321235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20190322000000 +0000" stop="20190322235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20190319064000 +0100" stop="20190319073500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190319073500 +0100" stop="20190319083500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190319083500 +0100" stop="20190319093500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190319093500 +0100" stop="20190319103500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190319103500 +0100" stop="20190319114000 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190319210000 +0100" stop="20190319231000 +0100" channel="6ter">
+    <title lang="fr">The Last Warrior (?)</title>
+    <credits>
+      <director>Dmitriy Dyachenko</director>
+      <actor>Ekaterina Vilkova 
+ 
+ Varvara</actor>
+      <actor>Elena Yakovleva 
+ 
+ Baba Yaga</actor>
+      <actor>Evgeniy Dyatlov 
+ 
+ Dobrynya</actor>
+      <actor>Konstantin Lavronenko 
+ 
+ Koshchey</actor>
+      <actor>Mila Sivatskaya 
+ 
+ Vasilisa</actor>
+      <actor>Sergey Burunov 
+ 
+ Vodyanoy</actor>
+      <actor>Timofey Tribuntsev 
+ 
+ Starets</actor>
+    </credits>
+    <category lang="fr">Téléfilm d'aventures</category>
+  </programme>
+  <programme start="20190319231000 +0100" stop="20190319234000 +0100" channel="6ter">
+    <title lang="fr">Storage Wars : Texas (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190319234000 +0100" stop="20190320000000 +0100" channel="6ter">
+    <title lang="fr">Storage Wars : Texas (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190320000000 +0100" stop="20190320002500 +0100" channel="6ter">
+    <title lang="fr">Storage Wars : Texas (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190320002500 +0100" stop="20190320005500 +0100" channel="6ter">
+    <title lang="fr">Storage Wars : Texas (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190320005500 +0100" stop="20190320012000 +0100" channel="6ter">
+    <title lang="fr">Storage Wars : Texas (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190320064000 +0100" stop="20190320073500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190320073500 +0100" stop="20190320083500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190320083500 +0100" stop="20190320093500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190320093500 +0100" stop="20190320103500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190320103500 +0100" stop="20190320114000 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321064000 +0100" stop="20190321073500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321073500 +0100" stop="20190321083500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321083500 +0100" stop="20190321093500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321093500 +0100" stop="20190321103500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321103500 +0100" stop="20190321114000 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190321210000 +0100" stop="20190321233000 +0100" channel="6ter">
+    <title lang="fr">Les vacances préférées des Français (?)</title>
+    <credits>
+      <presenter>Elodie Gossuin</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20190321233000 +0100" stop="20190322020000 +0100" channel="6ter">
+    <title lang="fr">Les vacances préférées des Français (?)</title>
+    <credits>
+      <presenter>Elodie Gossuin</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20190322064000 +0100" stop="20190322073500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190322073500 +0100" stop="20190322083500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190322083500 +0100" stop="20190322093500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190322093500 +0100" stop="20190322103500 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190322103500 +0100" stop="20190322114000 +0100" channel="6ter">
+    <title lang="fr">Un trésor dans votre maison</title>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20190322210000 +0100" stop="20190322222000 +0100" channel="6ter">
+    <title lang="fr">Norbert (?)</title>
+    <credits>
+      <presenter>Norbert Tarayre</presenter>
+      <presenter>Sophie Ferjani</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
+  </programme>
+  <programme start="20190322222000 +0100" stop="20190322234500 +0100" channel="6ter">
+    <title lang="fr">Norbert (?)</title>
+    <credits>
+      <presenter>Norbert Tarayre</presenter>
+      <presenter>Sophie Ferjani</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
+  </programme>
+  <programme start="20190322234500 +0100" stop="20190323010500 +0100" channel="6ter">
+    <title lang="fr">Norbert (?)</title>
+    <credits>
+      <presenter>Norbert Tarayre</presenter>
+      <presenter>Sophie Ferjani</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
+  </programme>
+  <programme start="20190323010500 +0100" stop="20190323022000 +0100" channel="6ter">
+    <title lang="fr">Norbert (?)</title>
+    <credits>
+      <presenter>Norbert Tarayre</presenter>
+      <presenter>Sophie Ferjani</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
+  </programme>
+  <programme start="20190323022000 +0100" stop="20190323060000 +0100" channel="6ter">
+    <title lang="fr">Programmes de la nuit</title>
+    <category lang="fr">Programme indéterminé</category>
+  </programme>
+</tv>
